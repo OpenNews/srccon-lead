@@ -1,0 +1,17 @@
+language: ruby
+rvm:
+- 2.4.1
+sudo: required
+dist: precise
+install: gem install jekyll -v 3.3.0 && gem install jekyll-redirect-from && gem install s3_website
+script: jekyll build
+after_success:
+- test $TRAVIS_BRANCH = "master" && s3_website push --config-dir=_config/production/
+- test $TRAVIS_BRANCH = "staging" && s3_website push --config-dir=_config/staging/
+branches:
+  only:
+  - master
+  - staging
+notifications:
+  slack:
+    secure: Y9lKjo4jheKfT2mbo1KaFiPjA+6msYINLhnZ2TMqJJcNPV/UTVDyrVQwGn1EasQozfa3ougfQx8cYxlTZDsphCEDFyD+R94xMYEBf0XdXqRt/XTeYKQU8L7VfwMbuda3xcEE3HhCFwGoReg/OijXule6JjinQ1VvKuKGhnFTVD+u2b3gY7PY/wfmFTz38EtyF+R9xxB57qEh7hR39ccT5T7MmDqOp9Q3DaP656NHPP9bkuW6NV+yWcwDufU+PwG+Mz6bq6/LgN1G+VjfX3IbLSHZO7hG9eaI3W25mAnUXG+MF3NNb+MO/916ZiJlD7XVCBDnZgjpATrpTOkxgCjJjo9SvAua9ZQalzNRxz2U3kUXgfy/kAdlJQQzDBtmq0xYxcTirZsPLyYDgSyrABFRpVga4YeWJtxG8HCq6OnW78L6ii1VS6DIgXoHiaJUhtmC8EgWkN0OoqxIUsNvnFOJAVXrWjOKFNBBpCljywLoinhXR3hao/Qh7vzgW7BNE5rxYrordA3AlP6dx6ee7gpYocvqngF7rOALnmtXW821RVEj7L27jvqocEdaiwSUlm5VwqEPgRZPRC5oNjIZ+qMaS6zoWG4pcm1mP78rymWMec+ovpiOkS3mTj2jPVC04nJCsEmeKMTCJ1Zs4rWej3qBytOy2UL6jdn4T2GdC4+nr3Q=
