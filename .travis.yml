@@ -3,7 +3,8 @@ rvm:
 - 2.4.1
 sudo: required
 dist: precise
-install: gem install jekyll -v 3.3.0 && gem install jekyll-redirect-from && gem install s3_website
+install: gem install jekyll -v 3.3.0 && gem install jekyll-redirect-from && gem install
+  s3_website
 script: jekyll build
 after_success:
 - test $TRAVIS_BRANCH = "master" && s3_website push --config-dir=_config/production/
@@ -14,4 +15,4 @@ branches:
   - staging
 notifications:
   slack:
-    secure: Y9lKjo4jheKfT2mbo1KaFiPjA+6msYINLhnZ2TMqJJcNPV/UTVDyrVQwGn1EasQozfa3ougfQx8cYxlTZDsphCEDFyD+R94xMYEBf0XdXqRt/XTeYKQU8L7VfwMbuda3xcEE3HhCFwGoReg/OijXule6JjinQ1VvKuKGhnFTVD+u2b3gY7PY/wfmFTz38EtyF+R9xxB57qEh7hR39ccT5T7MmDqOp9Q3DaP656NHPP9bkuW6NV+yWcwDufU+PwG+Mz6bq6/LgN1G+VjfX3IbLSHZO7hG9eaI3W25mAnUXG+MF3NNb+MO/916ZiJlD7XVCBDnZgjpATrpTOkxgCjJjo9SvAua9ZQalzNRxz2U3kUXgfy/kAdlJQQzDBtmq0xYxcTirZsPLyYDgSyrABFRpVga4YeWJtxG8HCq6OnW78L6ii1VS6DIgXoHiaJUhtmC8EgWkN0OoqxIUsNvnFOJAVXrWjOKFNBBpCljywLoinhXR3hao/Qh7vzgW7BNE5rxYrordA3AlP6dx6ee7gpYocvqngF7rOALnmtXW821RVEj7L27jvqocEdaiwSUlm5VwqEPgRZPRC5oNjIZ+qMaS6zoWG4pcm1mP78rymWMec+ovpiOkS3mTj2jPVC04nJCsEmeKMTCJ1Zs4rWej3qBytOy2UL6jdn4T2GdC4+nr3Q=
+    secure: DGdA69N3HkYUEzRW7BdLBhd2ohmQSZG7DAj6lf//DNR2o1B/F1NbvjeiRlhGX6wbS7Trsn5xhN3DaQqxuQJpf/urEwwmpS7vcvGz0vYhqYoWkFxEJUSvbO0trA0oMtVsENbQLhz2TfYso/iYYJFefZF9Cp2KJDac5NFiGhDji5KAYLkD3GkAAcIi/slTYs+0DAYSrsJHr3M+RxRSGxoT3cNDqehDd9lG4vySUkEMnZUAU+5EM1S0+5pab8SY7Uhzt/vcELjAOFSTCoXqJlfRNYpJhWAp+iiDCDO5fHPc+Zrx0gWQb1UffhORxFtZ/3tVbshG7YYwxFV9JuUrIkfT5xclMiRKcpl113Fjx1gRO/EMlML6NC476AsZ+WttLNM/2JKsaCg89GqOY/JjqVzcY4s7z9VYICl5BqNO7gLsqOyL6+fbZsGrtYrE6iT+L+gPfYwlysII8Sd5/8IkIoyfE7xMwpWpg4c8wxZoHCf0QwhrOma5h2dm/HXO4ShCz4rGtDMZMIaRw2UR/gSld80OGtjQl3E/91tMvNzZ77wAUXYjauRmSzm48QxVGU5Id2PUHI7kHKr9pn8EZjNYes75HeV0nJb08j2JtRsgCmMHQ8BnaGpnA9hECABlbybtUQSRqvxJ/Z4gr51Z3jayNpqD108oUSYCgRyLxPgr8d5O+fA=
