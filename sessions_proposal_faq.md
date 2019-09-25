@@ -55,16 +55,26 @@ You'll hear "participatory" and "collaborative" used a lot to describe SRCCON ev
 
 One of the most exhilirating things for us as conference organizers is to see people go out and DO THE WORK. Maybe that'll be you, as a session leader, with newfound energy after talking through how you're changing the ways leadership operates in your organization. Maybe it's an attendee who learned something new in _your_ session, and takes home a plan to change their community's relationship with journalism. There are so many exciting things that can happen when passionate people get together at an event like SRCCON:LEAD. And we want to help you plan for those outcomes! If there's something you'd like to build together or move forward after the event is over, we're here to support that work. We just want you to tell us what you need.
 
-## Sessions From Previous SRCCONs
+<span id="resources"></span>
 
-To give you a taste of how facilitators have turned their plans into action, here are a some writeups from previous participants on their experience hosting sessions:
+## Additional resources
+ 
+* [How to approach planning a session](http://opennews.org/blog/srccon-session-planning/)
+* [Three ways to facilitate a great conference session](https://opennews.org/blog/srccon-facilitator-recs-one/), by ProPublica’s Sisi Wei
+* [How we facilitated a huge, participatory, highly charged SRCCON session](https://opennews.org/blog/srccon-facilitator-recs-two/), by NPR’s Alyson Hurt
+* [Teaching and brainstorming inclusive technical metaphors](https://source.opennews.org/articles/teaching-and-brainstorming-inclusive-technical-met/), by Vox Product’s Nicole Zhu
+* [Stuck in a rut? Tackle newsroom frustrations with board games](https://source.opennews.org/articles/newsroom-frustration-games/), by Sara Konrad Baranowski of the Iowa Falls Times Citizen and Andrea Suozzo of Vermont’s Seven Days
+* [Great Conference Sessions, the SRCCON Way](https://source.opennews.org/articles/srccon-great-conference-sessions/), by Brent Jones of St. Louis Public Radio
+* [Behind the decisions that help make SRCCON, and your sessions, more humane](http://opennews.org/blog/srccon-human-stuff/)
+* [Our favorite facilitation guide from AORTA Coop](http://aorta.coop/portfolio_page/facilitation-in-motion/)
+* [Tips from our friends at Aspiration Tech about running a breakout session](http://facilitation.aspirationtech.org/index.php?title=Facilitation:Break-Outs)
+* [General facilitation tips from Aspiration Tech](http://facilitation.aspirationtech.org/index.php?title=Facilitation:Facilitator_Guidelines)
 
-* [3 Ways To Facilitate A Great Conference Session](https://opennews.org/blog/srccon-facilitator-recs-one/), by ProPublica’s Sisi Wei
-* [How We Facilitated A Huge, Participatory, Highly Charged SRCCON Session](https://opennews.org/blog/srccon-facilitator-recs-two/), by NPR’s Alyson Hurt
-* [Teaching and Brainstorming Inclusive Technical Metaphors](https://source.opennews.org/articles/teaching-and-brainstorming-inclusive-technical-met/), by Vox Product’s Nicole Zhu
-* [Stuck in a Rut? Tackle Newsroom Frustrations With Board Games](https://source.opennews.org/articles/newsroom-frustration-games/), by Sara Konrad Baranowski of the Iowa Falls Times Citizen and Andrea Suozzo of Vermont’s Seven Days
+<span id="previous"></span>
 
-We also archive each conference site and schedule, so if you'd like to take a look back at the topics we've tackled before, dig in!
+## Sessions from previous SRCCONs
+
+We archive each year's conference site and schedule, so if you'd like to take a look back at the topics we've tackled before, dig in!
 
 * [SRCCON 2019](https://2019.srccon.org/schedule/)
 * [SRCCON:POWER 2018](https://power.srccon.org/schedule/)
@@ -74,4 +84,3 @@ We also archive each conference site and schedule, so if you'd like to take a lo
 * [SRCCON 2016](https://2016.srccon.org/schedule/)
 * [SRCCON 2015](https://2015.srccon.org/schedule/)
 * [SRCCON 2014](https://2014.srccon.org/schedule/)
-
