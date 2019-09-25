@@ -17,13 +17,13 @@ November 19 & 20 in Philadelphia, at the [Fleisher Art Memorial](https://fleishe
 
 ## About SRCCON:LEAD
 
-SRCCON:LEAD is the third in a series of smaller, thematic events built around the hands-on problem-solving that the news-nerd community brings into [SRCCON](https://srccon.org) events. [SRCCON:WORK](https://work.srccon.org/) explored how we support each other and collaborate. [SRCCON:POWER](https://work.srccon.org/) dug into the dynamics of newsroom relationships, and how power influences decisionmaking in journalism.
+SRCCON:LEAD is the third in a series of smaller, thematic events built around the hands-on problem-solving that the news-nerd community brings into [SRCCON](https://srccon.org) events. [SRCCON:WORK](https://work.srccon.org/) explored how we support each other and collaborate. [SRCCON:POWER](https://work.srccon.org/) dug into the power dynamics of newsroom relationships and decisionmaking.
 
 Those themes carry us into SRCCON:LEAD, where we'll:
 
 * wrestle with the ways this industry often doesn't prepare or support the people it asks to lead
 * confront newsroom fears of discussing money, conflict, and diversity and inclusion
-* inspire each other to transform our own organizations, regardless of title or job description
+* inspire each other to transform how leadership works in our own organizations, regardless of title or job description
 * teach each other the practical skills—from strategic planning to effective communication—we can use to be part of that change
 
 This is a conference for people with leadership experience, people who aren't in leadership but want to be, and for people who don't want to be but know journalism leadership needs to be better. We believe we learn best when we learn from each other, and coming together for hard conversations can strengthen our community.
