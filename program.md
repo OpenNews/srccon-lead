@@ -13,7 +13,7 @@ permalink: /program/
 At SRCCON:LEAD, we'll come together as a community to figure out how we can reshape the ways journalism leadership operates. This is a brand-new event where we'll:
 
 * inspire each other to transform our own organizations, regardless of title or job description
-* teach each other the practical skills—from strategic planning to effective communication—we can use to be part of that change
+* teach each other the practical skills—from handling money and hiring to effective communication—we can use to be part of that change
 
 ## Schedule Overview
 

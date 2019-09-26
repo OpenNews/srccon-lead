@@ -22,7 +22,7 @@ We'll have a few questions for you about what you'd like to bring to SRCCON:LEAD
 
 We keep the size of SRCCON:LEAD intentionally small, at about 125 participants. This size means we need to be intentional about equitably distributing tickets and ensuring that there are a mix of perspectives and skills at SRCCON:LEAD. Our call for participation form will help us understand who would like to take part and what you want to get out of it. With those responses, we'll work to create a schedule and audience that reflects the dynamic interests and needs of this community.
 
-The deadline for session proposals and scholarship applications is October 7, and we'll keep the form open for attendees as long as we can. Everyone who fills out the call for participation form by October 7 will hear back from us by October 14. If invited to attend, you will have the chance to purchase a ticket for $225 plus fees.
+The deadline for session proposals and scholarship applications is October 7, and we'll keep the form open for attendees as long as we can. Everyone who fills out the call for participation form by October 7 will hear back from us by October 14. If invited to attend, you will have the chance to purchase a ticket starting at $225 plus fees.
 
 ## Facilitating Sessions
 
