@@ -50,11 +50,11 @@ h1, h2, h3, h4 {
 
 
 /* HEADER IMAGES */
-header #header-image { /* default to MPLS skyline homepage background */
+header #header-image { /* default to Philly skyline homepage background */
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url(/media/img/backgrounds/minneapolis.jpg);
-    background-position: 0 -180px;
+    background-image: url(../img/backgrounds/philly.jpg);
+    background-position: 0 -90px;
     height: 320px;
 }
 .sponsors #header-image {
@@ -111,14 +111,19 @@ header #header-image { /* default to MPLS skyline homepage background */
 }
 
 /* HEADER STYLES */
-header #corner-logo {
-    position: absolute;
-    z-index: 100;
-    margin: .33em 1em -150px 0;
+header {
+    position: relative;
 }
-header #corner-logo img {
-    width: 240px;
+a#header-logo img {
+  display: block;
+  width: 420px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -127px;
+  margin: auto;
 }
+
 header nav {
     background-color: #fff;
 }
@@ -187,6 +192,7 @@ header nav a:hover {
 main {
     padding: 0 1em 1em;
     line-height: 1.6em;
+    margin-top: 150px;
 }
 main ul, main p {
     margin: 0 0 1em;
@@ -195,6 +201,21 @@ main input {
     font-size: .75em;
     padding: .25em;
     margin: 0 0 .5em;
+}
+
+#main-callout {
+    text-align: center;
+    line-height: 1;
+    margin-bottom: 1.5em;
+}
+#main-callout span {
+    padding: .5em 0;
+    display: inline-block;
+    font-family: sofia-pro, sans-serif;
+    font-weight: 700;
+}
+#main-callout .button {
+    margin: .5em 0 .5em 1em;
 }
 
 .homepage #latest-news {
@@ -507,11 +528,12 @@ table a.session-transcript {
     header, main, .page-block {
         margin-bottom: 1.3em;
     }
-    header #corner-logo {
-        margin: .5em;
+    a#header-logo img {
+      width: 360px;
+      bottom: -113px;
     }
-    header #corner-logo img {
-        width: 210px;
+    main {
+        margin-top: 130px;
     }
     #header-image .photo-credit {
         bottom: auto;
@@ -583,9 +605,22 @@ table a.session-transcript {
     }
 }
 
+@media screen and (max-width: 680px) {
+    a#header-logo img {
+      bottom: -90px;
+    }
+    main {
+        margin-top: 105px;
+    }
+}
+
 @media screen and (max-width: 640px) {
-    header #corner-logo img {
-        width: 180px;
+    a#header-logo img {
+      width: 320px;
+      bottom: -104px;
+    }
+    main {
+        margin-top: 120px;
     }
     header nav ul {
         font-size: .6em;
@@ -619,10 +654,30 @@ table a.session-transcript {
     }
 }
 
+@media screen and (max-width: 580px) {
+    a#header-logo img {
+      width: 320px;
+      bottom: -80px;
+    }
+    main {
+        margin-top: 95px;
+    }
+}
+
 @media screen and (max-width: 540px) {
+    a#header-logo img {
+      width: 320px;
+      bottom: -63px;
+    }
     .sponsor-tag img {
         width: 50%;
         display: block;
+    }
+    main {
+        margin-top: 80px;
+    }
+    #main-callout .button {
+        margin-right: .5em;
     }
 }
 
@@ -630,11 +685,14 @@ table a.session-transcript {
     body {
         font-size: 1.4em;
     }
-    header #corner-logo {
-        margin: 1.3em .5em .5em .5em;
-    }
-    header #corner-logo img {
-        width: 150px;
+    a#header-logo img {
+      position: relative;
+      width: 80%;
+      margin-left: 10%;
+      margin-right: 9%;
+      margin-top: 0;
+      margin-bottom: 0;
+      bottom: -35px;
     }
     header nav ul {
         align-items: center;
@@ -643,6 +701,13 @@ table a.session-transcript {
     }
     header nav ul li {
         flex-grow: 1;
+    }
+    main {
+        margin-top: 40px;
+    }
+    #main-callout .button {
+        margin-left: 0;
+        margin-right: 0;
     }
     .homepage #header-image {
         background-position: 0 0;
