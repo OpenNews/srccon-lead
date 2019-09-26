@@ -35,3 +35,5 @@ We think SRCCON events are best when there's a mix of new folks and veterans. An
 ## Financial & Family Assistance
 
 We have a limited number of [travel scholarships](/scholarships) available to help people who wouldn't otherwise be able to attend. To apply for a scholarship to SRCCON:LEAD, just let us know on the [call for participation form](/participation/form).
+
+In addition to financial assistance for travel, we know that you may have childcare or caretaking responsibilities that affect your ability to participate in events like this. We'll have more details about the [childcare and caretaking support](/childcare) we can offer soon, and there's also a question on the form to let us know you'd like all the info about that support.

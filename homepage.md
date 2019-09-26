@@ -7,7 +7,7 @@ photocredit_url: https://www.flickr.com/photos/cantbecool/24086316579/in/photoli
 permalink: /index.html
 ---
 
-SRCCON:LEAD will reimagine how leadership works in journalism because we have to stop making the same mistakes. Through talks, hands-on sessions, and emergent conversations, 125 participants will spend two days developing the skills to build more representative news organizations—from within or from the ground up. That means listening to everyone in the room, and it starts with making the room more inclusive in the first place.
+SRCCON:LEAD will reimagine how leadership works in journalism because as an industry, we have to stop making the same mistakes. Through talks, hands-on sessions, and emergent conversations, 125 participants will spend two days developing the skills to build more representative news organizations—from within or from the ground up. That means listening to everyone in the room, and it starts with making the room more inclusive in the first place.
 
 Our [call for participation](/participation/form) is open through **Monday, October 7**. Join us!
 
