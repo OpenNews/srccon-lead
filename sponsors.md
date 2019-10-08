@@ -17,7 +17,7 @@ SRCCON is a journalism conference people love. This reaction comes from the appr
 We offer several levels of sponsorship in order to accommodate a variety of sizes of companies and organizations. Below you&rsquo;ll see some of our recent offerings. These may evolve as we plan for this unique event, but this will give you an idea of the type of sponsorships we may offer. <a href="mailto:erika@opennews.org">Email us</a> to talk about options!
 
 
-## Help Make SRCCON Happen
+## Help make SRCCON happen
 
 We're seeking sponsors for SRCCON:LEAD, which will host 125 participants in Philadelphia on November 19-20.
 
@@ -31,7 +31,7 @@ Available sponsorships include:
 
 Each sponsorship includes at least 1 free ticket and different types of visibility and recognition throughout the event. [Contact Erika Owens](mailto:erika@opennews.org) for a full kit with pricing and further details. We love chatting with folks to find the best way we can collaborate to welcome your team to the event and make it inclusive for all attendees!
 
-## Why Sponsor SRCCON
+## Why sponsor SRCCON
 
 For journalism-technologists, newsroom leaders (both formal and informal), and others seeking to change journalism for the better, SRCCON is where they can sit down away from the deadlines and the day-to-day and learn from each other. We want you to help make that happen.
 
