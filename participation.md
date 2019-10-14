@@ -22,6 +22,22 @@ We keep the size of SRCCON:LEAD intentionally small, at about 125 participants. 
 
 The deadline for session proposals and scholarship applications has passed, and we'll keep [the participation form](/participation/form/) open for attendees as long as we can. If invited to attend, you will have the chance to purchase a ticket starting at $225 plus fees.
 
+## Details About Ticket Prices
+
+This year [we began experimenting with a tiered ticket pricing system](https://opennews.org/blog/srccon-2019-launch). Accessibility remains a core value for us, and this is our attempt to balance the actual costs of our events with keeping prices as manageable for attendees as possible. We also continue to offer [scholarships to attend](/scholarships).
+
+Here are the tiers for tickets to SRCCON:LEAD (plus Eventbrite ticketing fees):
+
+* **$225:** This was our ticket price last year and remains the base price for people who are paying their own way, from small news organizations with fewer than 50 people, or nonprofits with budgets $750,000 or less.
+* **$375:** This tier is for people from medium-sized news organizations of 51-250 employees, nonprofits with budgets $750,000-$2 million, and other similar-sized organizations.
+* **$695:** This ticket tier reflects very nearly the actual cost for each attendee of SRCCON:LEAD and is for people from large news organizations with more than 250 employees, nonprofits with budgets over $2 million, and other organizations that provide full professional-development budgets for employees.
+
+Here's the most important thing to know about these ticket prices: _We want you to choose the one that makes sure you can be at SRCCON:LEAD_. We don't review who pays what, and we won't follow up with any questions. If you work for an organization where budgets have already been set or there's not additional travel support available to you, _choose a lower price_ and join us in Philly.
+
+We based these tiers on community feedback encouraging us to find ways to share event costs. At SRCCON 2019, they were a huge part of what made it possible to organize an event with scholarships, free childcare, live transcription, two lunches, dinner, and ample snacks and drinks, and the support of a skilled event team in preparing sessions and constructing a schedule that lets attendees focus on learning and talking together.
+
+If you have any questions at all about ticket pricing, [please reach out](mailto:srccon@opennews.org).
+
 ## Facilitating sessions
 
 At SRCCON events, session facilitators regularly make up more than a third of attendees. All of our sessions [are peer-led by conference attendees](/program).
