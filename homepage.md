@@ -17,6 +17,9 @@ Our [call for participation](/participation/form) will be open for attendees for
 
 November 19 & 20 in Philadelphia, at the [Fleisher Art Memorial](https://fleisher.org/)
 
+* **Tuesday, Nov. 19:** 9am-6pm
+* **Wednesday, Nov. 20:** 9am-6pm
+
 ## About SRCCON:LEAD
 
 SRCCON:LEAD is the third in a series of smaller, thematic events built around the hands-on problem-solving that the news-nerd community brings into [SRCCON](https://srccon.org) events. [SRCCON:WORK](https://work.srccon.org/) explored how we support each other and collaborate. [SRCCON:POWER](https://work.srccon.org/) dug into the power dynamics of newsroom relationships and decisionmaking.

@@ -6,8 +6,6 @@ photocredit_url: http://www.westraco.com/
 permalink: /program/
 ---
 
-<p class="big-lead">Our <a href="/participation/form">call for participation form</a> is open through October 7. We&rsquo;re excited to hear about your session ideas!</p>
-
 # The SRCCON:LEAD program
 
 At SRCCON:LEAD, we'll come together as a community to figure out how we can reshape the ways journalism leadership operates. This is a brand-new event where we'll:
