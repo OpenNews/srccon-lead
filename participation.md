@@ -14,7 +14,7 @@ SRCCON:LEAD is a hands-on conference, which means that everyone who attends acti
 
 ## Not just attendees, but participants
 
-At SRCCON:LEAD, everyone participates in some way. [Our hands-on sessions rely on participants](/sessions/about) who are ready to share their experiences and perspectives. [Facilitators create space](/sessions/about#facilitators) for in-depth conversations, design exercises, demos, and workshops, and participants bring questions and take ideas back to their newsrooms. In addition to sessions, folks help make SRCCON:LEAD an inclusive, welcoming place by leading group activities, volunteering, and even just saying hi to new friends and collaborators over meals and coffee/tea/hot beverages.
+At SRCCON:LEAD, everyone participates in some way. Our [hands-on sessions](/sessions) rely on participants who are ready to share their experiences and perspectives. [Facilitators create space](/program) for in-depth conversations, design exercises, demos, and workshops, and participants bring questions and take ideas back to their newsrooms. In addition to sessions, folks help make SRCCON:LEAD an inclusive, welcoming place by leading group activities, volunteering, and even just saying hi to new friends and collaborators over meals and coffee/tea/hot beverages.
 
 ## Inviting participants and allocating tickets
 

@@ -45,7 +45,7 @@ We also believe that conferences like SRCCON:LEAD are where amazing work only _b
 
 ## What's it like to lead a session at SRCCON:LEAD, and how can I account for that in my session pitch?
 
-You'll hear "participatory" and "collaborative" used a lot to describe SRCCON events, and we unpack a ton more about what that means on [our Sessions page](/sessions/about). As you're thinking about a proposal, some key points to guide you:
+You'll hear "participatory" and "collaborative" used a lot to describe SRCCON events. As you're thinking about a proposal, some key points to guide you:
 
 * Sessions last 60-75 minutes, so consider what you can realistically cover in that amount of time.
 * The best session descriptions are clear and inviting, and describe an outcome that attendees can expect to accomplish.

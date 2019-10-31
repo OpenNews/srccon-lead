@@ -15,6 +15,8 @@ At SRCCON:LEAD, we'll come together as a community to figure out how we can resh
 * inspire each other to transform our own organizations, regardless of title or job description
 * teach each other the practical skills—from handling money and hiring to effective communication—we can use to be part of that change
 
+See the [sessions that will help us explore these themes](/sessions)!
+
 ## Schedule overview
 
 SRCCON:LEAD takes place November 19 & 20 in Philadelphia, at the [Fleisher Art Memorial](https://fleisher.org/).
@@ -25,7 +27,7 @@ We'll release an official schedule as we get closer to the event, but you can co
 
 SRCCON:LEAD is built around two days of talks, peer-led conversations, and hands-on workshops. The community members who step up to participate in and facilitate these sessions make it all possible. They bring their experience with a topic as well as the questions they haven't answered, and guide conversations and collaborative work that helps everyone head home with new ideas.
 
-The sessions on our schedule are proposed and led by community members who want to lead conversations or develop new resources to share. Successful sessions often emerge from a single question or problem—if you’ve been struggling with just about any aspect of your work, you can bet others have dealt with it, too.
+The [sessions on our schedule](/sessions) are proposed and led by community members who want to lead conversations or develop new resources to share. Successful sessions often emerge from a single question or problem—if you’ve been struggling with just about any aspect of your work, you can bet others have dealt with it, too.
 
 We'll also make space at SRCCON:LEAD for emergent conversations and small-group gatherings. If a great idea occurs to you on the way to Philly (or even in the middle of a session there!), we'll have room for it.
 
