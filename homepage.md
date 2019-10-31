@@ -7,13 +7,18 @@ photocredit_url: https://www.flickr.com/photos/cantbecool/24086316579/in/photoli
 permalink: /index.html
 ---
 
-SRCCON:LEAD will reimagine how leadership works in journalism because as an industry, we have to stop making the same mistakes. Through talks, hands-on sessions, and emergent conversations, 125 participants will spend two days developing the skills to build more representative news organizations—from within or from the ground up. That means listening to everyone in the room, and it starts with making the room more inclusive in the first place.
+SRCCON:LEAD will reimagine how leadership works in journalism. Through talks, [hands-on sessions](/sessions), and emergent conversations, 125 participants will spend two days developing the skills to build more representative news organizations—from within or from the ground up. 
+
+<p>&rarrhk; <strong><a href="/sessions">See the sessions coming to the SRCCON:LEAD program</a>!</strong></p>
 
 Our [call for participation](/participation/form) will be open for attendees for as long as we have room. Join us!
 
 ## When & where
 
 November 19 & 20 in Philadelphia, at the [Fleisher Art Memorial](https://fleisher.org/)
+
+* **Tuesday, Nov. 19:** 9am-6pm
+* **Wednesday, Nov. 20:** 9am-6pm
 
 ## About SRCCON:LEAD
 
@@ -32,7 +37,7 @@ Our program has collaboration at its heart, with sessions proposed and led by co
 
 ## Who participates and how?
 
-We'll gather 125 people who want to reimagine leadership in journalism. Sometimes that work comes with a title, sometimes it comes with pay—we also know it oftentimes comes with neither.
+We'll gather 125 people who want to reimagine leadership in journalism. Sometimes that work comes with a title, sometimes it comes with pay—we also know it often comes with neither.
 
 SRCCON events work because they bring together different backgrounds and types of experience, so we're inviting people who:
 
