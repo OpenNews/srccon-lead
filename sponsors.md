@@ -1,7 +1,7 @@
 ---
 layout: layout
 section: sponsors
-permalink: /sponsors/index.html
+permalink: /sponsors/about/
 ---
 
 # Sponsor SRCCON:LEAD
@@ -19,7 +19,7 @@ We offer several levels of sponsorship in order to accommodate a variety of size
 
 ## Help make SRCCON happen
 
-We're seeking sponsors for SRCCON:LEAD, which will host 125 participants in Philadelphia on November 19-20.
+We're seeking sponsors for SRCCON:LEAD, which will host 125 participants in Philadelphia on November 19 & 20.
 
 Available sponsorships include:
 
@@ -39,4 +39,4 @@ Sponsors help us make this event unique and accessible by keeping our ticket pri
 
 _“SRCCON is the best conference I go to all year. It's so thoughtful and well planned. I feel happy, safe, and informed.”_ (all quotations from SRCCON attendees in post-event surveys)
 
-**Interested in having your company or organization become a sponsor of SRCCON?** [Get in touch with OpenNews Executive Director Erika Owens today.](mailto:erika@opennews.org)
+**Interested in having your company or organization become a sponsor of SRCCON?** [Get in touch with OpenNews Executive Director Erika Owens today](mailto:erika@opennews.org).
