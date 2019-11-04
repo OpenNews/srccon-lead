@@ -30,6 +30,8 @@ If you're coming to Philly on Amtrak, you'll get off at 30th Street Station. The
 
 Coming from the airport, there is a commuter train that also gets you into Center City or cabs have flat rate fares into the neighborhoods where the venue and hotels are located.
 
+The Fleisher Art Memorial is in a residential neighborhood, with lots of shops, restaurants, and activities just a few blocks away. It's a really pleasant walk from nearby neighborhoods, on a planned grid system to make it easier to navigate, with the venue between 7th and 8th Streets and just a few blocks south of South Street.
+
 For accessing the venue, it is not on a subway line this year. The 47 bus will get you closest to the venue, which goes south down 8th street and north up 7th street, with a stop on the block of the venue. A few blocks north of the venue, you could take the 40 bus and get off at 8th and South Streets and walk four blocks south. There are additional bus routes and subway options approximately a 20-minute walk from the venue.
 
 We are looking into other accessibility options. If you have any questions or would like more information about other ways to access the venue, [please let us know](mailto:srccon@opennews.org).
@@ -40,7 +42,7 @@ We want you to be happy and well-fed at SRCCON:LEAD, so we’re providing breakf
 
 ## Accessibility
 
-The Fleisher venue and all of the rooms we will be using are fully ADA accessible, with ramps and an elevator to reach rooms around the venue. The food we provide wlll be labeled, and we'll have options for all dietary needs. We ask about any accommodation needs as part of registration, but if you have any additional thoughts or questions, [please reach out](mailto:srccon@opennews.org).
+The Fleisher venue and all of the rooms we will be using are fully ADA accessible, with ramps and an elevator to reach rooms around the venue. The food we provide will be labeled, and we'll have options for all dietary needs. We ask about any accommodation needs as part of registration, but if you have any additional thoughts or questions, [please reach out](mailto:srccon@opennews.org).
 
 ## Childcare
 
@@ -57,3 +59,5 @@ Once again, we'll have live transcription for SRCCON:LEAD from our friends at Wh
 ## Coming soon
 
 We'll keep updating this page with more details about what to expect before and during SRCCON:LEAD. Stay tuned!
+
+[Learn more about how we structure participation at SRCCON events](/participation).

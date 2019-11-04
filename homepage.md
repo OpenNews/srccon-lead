@@ -15,7 +15,7 @@ Our call for participation is now closed.
 
 ## When & where
 
-November 19 & 20 in Philadelphia, at the [Fleisher Art Memorial](https://fleisher.org/)
+November 19 & 20 in Philadelphia, at the [Fleisher Art Memorial](https://fleisher.org/) at 719 Catharine Street.
 
 * **Tuesday, Nov. 19:** 9am-6pm
 * **Wednesday, Nov. 20:** 9am-6pm

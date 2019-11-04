@@ -20,16 +20,17 @@ permalink: /sponsors/
 
 <div class="sponsor-block">
     <a href="https://craignewmarkphilanthropies.org"><img src="/media/img/partners/newmark.png" alt="Craig Newmark Philanthropies"></a>
-    <p>I'm an old-school nerd, doing what I can to respect and support the people who fight to protect the values that America aspires to: fairness, opportunity and respect. I amplify the voices of the grassroots and advance their efforts to make sure everyone is included, and treated fairly and respectfully. I see my role as connecting people who are doing good, enabling them to do what they do best and then getting out of their way. I encourage others who have benefited from the many opportunities afforded by our country to give back. Because it's the right thing to do.</p>
+    <p>Craig Newmark Philanthropies was created by craigslist founder Craig Newmark to support and connect people and drive broad civic engagement. It works to advance people and grassroots organizations that are getting stuff done in areas that include trustworthy journalism & the information ecosystem, voter protection, gender diversity in technology, and veterans & military families. For more information, please visit: <a href="https://craignewmarkphilanthropies.org">CraigNewmarkPhilanthropies.org</a>.</p>
 </div>
 
 <div class="sponsor-block secondary">
     <h3>Accessibility sponsor - Transcription</h3>
     <a href="https://www.lenfestinstitute.org"><img src="/media/img/partners/lenfest.png"></a>
+    <p>The Lenfest Institute for Journalism is the first-of-its-kind non-profit organization whose sole mission is to develop and support sustainable business models for great local journalism. The Institute was founded in 2016 by cable television entrepreneur H.F. (Gerry) Lenfest. Lenfest gifted to the Institute an initial endowment of $20 million, which has since been supplemented by other donors, for investment in high-impact journalism; news technology and innovation; and diverse, growing audiences. Lenfest also gifted his ownership of The Philadelphia Inquirer to the Institute, and these news properties now serve as a live lab for the its innovation efforts.</p>
 </div>
 
 <div class="sponsor-block secondary">
-    <h3>Accessibility sponsor - Facilitator scholarships</h3>
+    <h3>Facilitator scholarships sponsor</h3>
     <a href="https://gannettfoundation.org"><img src="/media/img/partners/gannett_foundation.png"></a>
 </div>
 
