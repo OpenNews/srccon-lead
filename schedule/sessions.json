@@ -1,0 +1,34 @@
+[
+    {
+        "day": "Tuesday", 
+        "description": "Get your badges and get some food (plus plenty of coffee), as you gear up for the first day of SRCCON:LEAD!", 
+        "everyone": "y", 
+        "facilitators": "", 
+        "facilitators_twitter": "", 
+        "id": "thursday-breakfast", 
+        "length": "", 
+        "notepad": "", 
+        "room": "Sanctuary", 
+        "talk": "", 
+        "time": "8am", 
+        "timeblock": "tuesday-morning", 
+        "title": "Registration & Breakfast", 
+        "transcription": ""
+    }, 
+    {
+        "day": "Wednesday", 
+        "description": "Let's eat together as a group. Meals are provided when you attend SRCCON:LEAD, and our local caterer will have tasty options for all dietary needs.", 
+        "everyone": "y", 
+        "facilitators": "", 
+        "facilitators_twitter": "", 
+        "id": "friday-breakfast", 
+        "length": "", 
+        "notepad": "", 
+        "room": "Sanctuary", 
+        "talk": "", 
+        "time": "8:30am", 
+        "timeblock": "wednesday-morning", 
+        "title": "Breakfast at SRCCON:LEAD", 
+        "transcription": ""
+    }
+]

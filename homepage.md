@@ -11,11 +11,11 @@ SRCCON:LEAD will reimagine how leadership works in journalism. Through talks, [h
 
 <p>&rarrhk; <strong><a href="/sessions">See the sessions coming to the SRCCON:LEAD program</a>!</strong></p>
 
-Our [call for participation](/participation/form) will be open for attendees for as long as we have room. Join us!
+Our call for participation is now closed.
 
 ## When & where
 
-November 19 & 20 in Philadelphia, at the [Fleisher Art Memorial](https://fleisher.org/)
+November 19 & 20 in Philadelphia, at the [Fleisher Art Memorial](https://fleisher.org/) at 719 Catharine Street.
 
 * **Tuesday, Nov. 19:** 9am-6pm
 * **Wednesday, Nov. 20:** 9am-6pm
@@ -34,34 +34,6 @@ Those themes carry us into SRCCON:LEAD, where we'll:
 This is a conference for people with leadership experience, people who aren't in leadership but want to be, and for people who don't want to be but know journalism leadership needs to be better. We believe we learn best when we learn from each other, and coming together for hard conversations can strengthen our community.
 
 Our program has collaboration at its heart, with sessions proposed and led by community members, and a schedule built to support them. We also believe that people who work in journalism-tech are uniquely positioned to lead, because they already work across teams, disciplines, and organizations.
-
-## Who participates and how?
-
-We'll gather 125 people who want to reimagine leadership in journalism. Sometimes that work comes with a title, sometimes it comes with pay—we also know it often comes with neither.
-
-SRCCON events work because they bring together different backgrounds and types of experience, so we're inviting people who:
-
-* are leading from within their organizations, in formal ways or through roles they weren't hired for. Mentoring peers, elevating equity and inclusion, organizing for better salaries, exploring new products and revenue models, repairing relationships with communities—this is all leadership work that's changing journalism from the inside.
-* manage teams, big or small, from well-established to just starting up. People who see hiring as a chance to develop a team that reflects the places they cover. People who are figuring things out on the fly, but see honest conversations, well-handled conflict, and even a few internal spreadsheets as tools to transform how journalism works. And people who think someday, they might want to move into a role like that too.
-* are redefining what it means to be a leader in journalism. Management isn't the only way to be a leader or build a career path. People come into journalism-tech from all kinds of backgrounds, bringing with them new ideas for how journalism can and must evolve.
-
-If you're reading this, we bet you'll see echoes of your own work here. The conversations at SRCCON:LEAD need your insights, gathered through work experience, life experience, or otherwise. This event is built in a way that helps people from many styles and levels of leadership listen to and learn from each other. Whether you've attended before, have never been, or have never even heard of SRCCON, we're excited for _you_ to participate!
-
-## How can I take part?
-
-There are many ways to participate in SRCCON:LEAD! You could:
-
-* facilitate a session
-* help us prepare for the event
-* bring your questions and experiences as an attendee
-
-Or suggest something we haven't thought of yet. The [participation form](/participation/form) will help you tell us how you'd like to be part of SRCCON:LEAD. If invited to attend, you will have the chance to purchase a ticket.
-
-## How much does it cost?
-
-Ticket prices start at $225, plus ticketing fees. We'll also offer a limited number of need-based travel scholarships, with a $500 stipend for travel costs and a free ticket. You can apply for a scholarship right in the call for participation form.
-
-SRCCON events don't have open sale dates or lotteries. If you want to come to SRCCON:LEAD, our [call for participation](/participation/form) is how to let us know! We know this is a busy time of year, so if you have any particular scheduling needs, [please just let us know](mailto:srccon@opennews.org). 
 
 ## What's next?
 

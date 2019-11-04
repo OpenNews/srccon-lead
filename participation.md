@@ -6,23 +6,17 @@ photocredit_url: http://www.westraco.com/
 permalink: /participation/
 ---
 
-Everyone at SRCCON:LEAD contributes to making it happen. Our call for participation form is now open with questions about attending, pitching a session, and applying for a scholarship.
-
 # Participation at SRCCON:LEAD
-
-SRCCON:LEAD is a hands-on conference, which means that everyone who attends actively participates throughout the event. We [are excited to hear about](/participation/form) what ideas you'd like to bring into this event, and what you hope to take back home with you. 
-
-## Not just attendees, but participants
 
 At SRCCON:LEAD, everyone participates in some way. Our [hands-on sessions](/sessions) rely on participants who are ready to share their experiences and perspectives. [Facilitators create space](/program) for in-depth conversations, design exercises, demos, and workshops, and participants bring questions and take ideas back to their newsrooms. In addition to sessions, folks help make SRCCON:LEAD an inclusive, welcoming place by leading group activities, volunteering, and even just saying hi to new friends and collaborators over meals and coffee/tea/hot beverages.
 
 ## Inviting participants and allocating tickets
 
-We keep the size of SRCCON:LEAD intentionally small, at about 125 participants. This size means we need to be intentional about equitably distributing tickets and ensuring that there are a mix of perspectives and skills at SRCCON:LEAD. Our call for participation form will help us understand who would like to take part and what you want to get out of it. With those responses, we'll work to create a schedule and audience that reflects the dynamic interests and needs of this community.
+SRCCON:LEAD is intentionally small, with about 125 participants. This size means we were intentional about equitably distributing tickets and ensuring that there will be a mix of perspectives and skills at SRCCON:LEAD. Our call for participation form helped us understand who wanted to take part and what they wanted to get out of this event. With those responses, we've worked to create a schedule and audience that reflects the dynamic interests and needs of this community.
 
-The deadline for session proposals and scholarship applications has passed, and we'll keep [the participation form](/participation/form/) open for attendees as long as we can. If invited to attend, you will have the chance to purchase a ticket starting at $225 plus fees.
+Our call for participation is now closed.
 
-## Details About Ticket Prices
+## Details about ticket prices
 
 This year [we began experimenting with a tiered ticket pricing system](https://opennews.org/blog/srccon-2019-launch). Accessibility remains a core value for us, and this is our attempt to balance the actual costs of our events with keeping prices as manageable for attendees as possible. We also continue to offer [scholarships to attend](/scholarships).
 
