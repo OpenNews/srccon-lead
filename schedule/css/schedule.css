@@ -121,7 +121,7 @@ header #corner-logo {
     margin: 25px 0 -150px 0;
 }
 header #corner-logo img {
-    width: 240px;
+    width: 200px;
 }
 header nav {
     background-color: #fff;
@@ -577,11 +577,8 @@ h3.slider-control {
 
 @media screen and (max-width: 1020px) {
     header #corner-logo img {
-        width: 180px;
+        width: 200px;
         margin-left: 1em;
-    }
-    header #corner-logo {
-        margin-top: 13px;
     }
 }
 
@@ -614,7 +611,7 @@ h3.slider-control {
         width: 160px;
     }
     header #corner-logo {
-        margin-top: 18px;
+        margin-top: 16px;
     }
 }
 
@@ -681,10 +678,10 @@ h3.slider-control {
         padding-left: 1.5em;
     }
     header #corner-logo img {
-        width: 150px;
+        width: 120px;
     }
     header #corner-logo {
-        margin-top: 11px;
+        margin-top: 17px;
     }
     i.hide-narrow {
         display: none;
@@ -710,7 +707,7 @@ h3.slider-control {
         line-height: 1.3;
     }
     header #corner-logo {
-        margin-top: 6px;
+        margin-top: 12px;
     }
 }
 
@@ -728,7 +725,7 @@ h3.slider-control {
         width: 120px;
     }
     header #corner-logo {
-        margin-top: 46px;
+        margin-top: 28px;
     }
     header nav ul {
         margin: 0 auto;
@@ -741,8 +738,11 @@ h3.slider-control {
     }
 }
 
-@media only screen and (max-width: 385px) {
+@media only screen and (max-width: 400px) {
     #schedule-controls ul {
         font-size: 1rem;
+    }
+    header #corner-logo {
+        margin-top: 40px;
     }
 }
