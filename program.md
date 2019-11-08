@@ -17,17 +17,17 @@ At SRCCON:LEAD, we'll come together as a community to figure out how we can resh
 
 SRCCON:LEAD takes place November 19 & 20 in Philadelphia, at the [Fleisher Art Memorial](https://fleisher.org/). Our [conference schedule](/schedule) is organized around shared experiences: meals, [talks](#talks-at-srcconlead) that orient us as a community and [participatory sessions](#sessions-at-srcconlead) where small groups share ideas.
 
-Generous breaks mean you never have to rush off to the next thing. Lunch provides a space to rest, spend time with friends, or talk about what you're learning. Dinner on Thursday evening gives you a chance to connect with people over informal conversation. We want SRCCON:LEAD to feel less like a small conference and more like a big cohort.
+Generous breaks mean you never have to rush off to the next thing. Lunch provides a space to rest, spend time with friends, or talk about what you're learning. [Dinner on Tuesday evening](/dinner) gives you a chance to connect with people over informal conversation. We want SRCCON:LEAD to feel less like a small conference and more like a big cohort.
 
 ## Talks at SRCCON:LEAD
 
-Talks will open both our days at SRCCON:LEAD and send us off to dinner Thursday evening. We’ve asked speakers to challenge the ways journalism traditionally thinks about leadership, and we'll open up space for Q&A to explore these themes together.
+Talks will open both our days at SRCCON:LEAD and send us off to dinner Tuesday evening. We’ve asked speakers to challenge the ways journalism traditionally thinks about leadership, and we'll open up space for Q&A to explore these themes together.
 
 Our speakers at SRCCON:LEAD include:
 
 * Stacy Marie-Ishmael ([@s_m_i](https://twitter.com/s_m_i)), asking what it really means to be a leader in journalism, and what it means to be that leader in a time of upheaval and unease.
 * André Natta ([@acnatta](https://twitter.com/acnatta)), on finding your networks—including the ones you don't even know you have—and discovering that vulnerability is a strength.
-* Bryan Mercer ([@bscottmercer](https://twitter.com/bscottmercer)), sharing something that journalism can learn from community organizing: Power concedes nothing without a demand.
+* Bryan Mercer ([@bscottmercer](https://twitter.com/bscottmercer)), on collective action and current movements for change in Philadelphia, and something journalism can take away: "Power concedes nothing without a demand."
 
 We’ll share [live transcripts](/transcription) of each talk as it takes place.
 
@@ -45,3 +45,4 @@ Sessions at SRCCON events work because they're participatory—we really do lear
 
 SRCCON:LEAD sessions last about 60-75 minutes, and we work with facilitators to think about outlines and information density. Overprogramming a session can make it hard to reach a satisfying goal—but a session that's underdesigned can easily turn into a conversation that loses focus. We're happy to help facilitators figure out the right balance, and they partner with session participants to help everyone take away new ideas from their time together.
 
+_For more about what to expect during SRCCON:LEAD, [check out our attendee info page](/logistics)._

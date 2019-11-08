@@ -12,7 +12,7 @@ SRCCON:LEAD will take place at the [Fleisher Art Memorial](https://fleisher.org)
 
 **Dates:** November 19 & 20
 
-[Check out the SRCCON:LEAD schedule](/schedule) for our full conference program.
+[Check out the SRCCON:LEAD schedule](/schedule) for our full conference program. The entirety of SRCCON:POWER is covered by our [code of conduct](/conduct) and we've got a [support plan](/support) to back you up, too.
 
 ## Hotel
 
@@ -38,7 +38,11 @@ We are looking into other accessibility options. If you have any questions or wo
 
 ## Meals at SRCCON
 
-We want you to be happy and well-fed at SRCCON:LEAD, so we’re providing breakfast and lunch on both days. We’ll have tea, coffee, and snacks—both healthy and sugary—throughout the day as well. And we'll share more soon about Tuesday night dinner plans for SRCCON:LEAD attendees! (Thanks for your recommendations on restaurant options, and please [let us know](mailto:srccon@opennews.org) if your organization might be interested in sponsoring a small group dinner).
+We want you to be happy and well-fed at SRCCON:LEAD, so we’re providing breakfast and lunch on both days. We’ll have tea, coffee, and snacks—both healthy and sugary—throughout the day as well. And we'll gather in small groups for [Tuesday dinners](/dinner)! (Thanks for your recommendations on restaurant options, and please [let us know](mailto:srccon@opennews.org) if your organization might be interested in sponsoring a small group dinner).
+
+## More to Do/Eat/Drink/See
+
+If you’re looking for things to do before, after, or during SRCCON:LEAD, check out this [Welcome to Philly guide](https://docs.google.com/document/d/18ImdgLGxYawA1zsk1D98fv-acP5OzA6-uSyrW9vwbvM/edit) put together by local attendee Annemarie Dooling!
 
 ## Accessibility
 
@@ -54,10 +58,6 @@ The closest meeting to SRCCON:LEAD is Tuesday night at 8pm, at [The Underground]
 
 ## Transcription
 
-Once again, we'll have live transcription for SRCCON:LEAD from our friends at White Coat Captioning. As we get closer to the event, we'll have more details about what role transcription will play in this event. 
+Once again, we'll have [live transcription](/transcription) for SRCCON:LEAD from our friends at White Coat Captioning.
 
-## Coming soon
-
-We'll keep updating this page with more details about what to expect before and during SRCCON:LEAD. Stay tuned!
-
-[Learn more about how we structure participation at SRCCON events](/participation).
+_Learn more about [how we structure participation at SRCCON events](/participation)._
