@@ -12,7 +12,7 @@ SRCCON:LEAD will take place at the [Fleisher Art Memorial](https://fleisher.org)
 
 **Dates:** November 19 & 20
 
-[Check out the SRCCON:LEAD schedule](/schedule) for our full conference program. The entirety of SRCCON:POWER is covered by our [code of conduct](/conduct) and we've got a [support plan](/support) to back you up, too.
+[Check out the SRCCON:LEAD schedule](/schedule) for our full conference program. The entirety of SRCCON:LEAD is covered by our [code of conduct](/conduct) and we've got a [support plan](/support) to back you up, too.
 
 ## Hotel
 

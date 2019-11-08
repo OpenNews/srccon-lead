@@ -36,7 +36,7 @@ November 19 & 20 in Philadelphia, at the [Fleisher Art Memorial](https://fleishe
 
 ## About SRCCON:LEAD
 
-SRCCON:LEAD is the third in a series of smaller, thematic events built around the hands-on problem-solving that the news-nerd community brings into [SRCCON](https://srccon.org) events. [SRCCON:WORK](https://work.srccon.org/) explored how we support each other and collaborate. [SRCCON:POWER](https://work.srccon.org/) dug into the power dynamics of newsroom relationships and decisionmaking.
+SRCCON:LEAD is the third in a series of smaller, thematic events built around the hands-on problem-solving that the news-nerd community brings into [SRCCON](https://srccon.org) events. [SRCCON:WORK](https://work.srccon.org/) explored how we support each other and collaborate. [SRCCON:POWER](https://power.srccon.org/) dug into the power dynamics of newsroom relationships and decisionmaking.
 
 Those themes carry us into SRCCON:LEAD, where we'll:
 
