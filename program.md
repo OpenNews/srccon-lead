@@ -25,9 +25,9 @@ Talks will open both our days at SRCCON:LEAD and send us off to dinner Thursday 
 
 Our speakers at SRCCON:LEAD include:
 
-* Stacy Marie-Ishmael ([@s_m_i](https://twitter.com/s_m_i)), asking what it means to lead in a time of upheaval and unease.
-* André Natta ([@acnatta](https://twitter.com/acnatta)), on leaning on your networks and discovering that vulnerability is a strength.
-* Bryan Mercer ([@bscottmercer](https://twitter.com/bscottmercer)), sharing lessons in connection that journalism can learn from community organizing.
+* Stacy Marie-Ishmael ([@s_m_i](https://twitter.com/s_m_i)), asking what it really means to be a leader in journalism, and what it means to be that leader in a time of upheaval and unease.
+* André Natta ([@acnatta](https://twitter.com/acnatta)), on finding your networks—including the ones you don't even know you have—and discovering that vulnerability is a strength.
+* Bryan Mercer ([@bscottmercer](https://twitter.com/bscottmercer)), sharing something that journalism can learn from community organizing: Power concedes nothing without a demand.
 
 We’ll share [live transcripts](/transcription) of each talk as it takes place.
 
