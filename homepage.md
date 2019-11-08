@@ -7,11 +7,13 @@ photocredit_url: https://www.flickr.com/photos/cantbecool/24086316579/in/photoli
 permalink: /index.html
 ---
 
-SRCCON:LEAD will reimagine how leadership works in journalism. Through talks, [hands-on sessions](/sessions), and emergent conversations, 125 participants will spend two days developing the skills to build more representative news organizations—from within or from the ground up. 
+SRCCON:LEAD will reimagine how leadership works in journalism. Through [talks, hands-on sessions, and emergent conversations](/program), 125 participants will spend two days developing the skills to build more representative news organizations—from within or from the ground up. 
 
-<p>&rarrhk; <strong><a href="/sessions">See the sessions coming to the SRCCON:LEAD program</a>!</strong></p>
-
-Our call for participation is now closed.
+<p>
+    &rarrhk; <strong><a href="/schedule">Check out the SRCCON:LEAD schedule</a>!</strong>
+    <br>&rarrhk; <strong><a href="/program/#talks-at-srcconlead">See the talks coming to our program</a></strong>
+    <br>&rarrhk; <strong><a href="/program/#sessions-at-srcconlead">Learn more about participatory sessions</a></strong>
+</p>
 
 ## When & where
 
