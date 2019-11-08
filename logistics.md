@@ -12,7 +12,7 @@ SRCCON:LEAD will take place at the [Fleisher Art Memorial](https://fleisher.org)
 
 **Dates:** November 19 & 20
 
-We're still finalizing details, but your travel plans can anticipate the SRCCON:LEAD program beginning around 9am on Tuesday, Nov. 19, and closing around 6pm on Wednesday, Nov. 20.
+[Check out the SRCCON:LEAD schedule](/schedule) for our full conference program.
 
 ## Hotel
 

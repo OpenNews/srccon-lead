@@ -20,7 +20,9 @@ SRCCON:LEAD will reimagine how leadership works in journalism. Through [talks, h
 November 19 & 20 in Philadelphia, at the [Fleisher Art Memorial](https://fleisher.org/) at 719 Catharine Street.
 
 * **Tuesday, Nov. 19:** 9am-6pm
-* **Wednesday, Nov. 20:** 9am-6pm
+* **Wednesday, Nov. 20:** 9am-5:30pm
+
+You can join us for breakfast at the venue both days at 8am.
 
 ## About SRCCON:LEAD
 
