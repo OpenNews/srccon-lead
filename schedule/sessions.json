@@ -45,7 +45,7 @@
         "time": "9:30am", 
         "timeblock": "tuesday-talk-1", 
         "title": "SRCCON:LEAD Talks: Stacy-Marie Ishmael", 
-        "transcription": ""
+        "transcription": "https://docs.google.com/document/d/1oiJoT-g-JRF3_5ce3OF7sH4KcUhwU7UUu0vZe9IHXIY/"
     }, 
     {
         "day": "Tuesday", 
@@ -61,7 +61,7 @@
         "time": "10:15am", 
         "timeblock": "tuesday-am-1", 
         "title": "The State of Newsroom Diversity Reports", 
-        "transcription": ""
+        "transcription": "https://docs.google.com/document/d/1VEKKYw71hPtmAxMwwpw-X17sOzPtfe4qC0Xh9hw9R9Y/"
     }, 
     {
         "day": "Tuesday", 
@@ -125,7 +125,7 @@
         "time": "12pm", 
         "timeblock": "tuesday-am-2", 
         "title": "How to succeed and thrive in places that weren’t designed for you", 
-        "transcription": ""
+        "transcription": "https://docs.google.com/document/d/15hpy-gPUUwBMXQiyi0FvJ80qFlOh2gb7wGgEKTT12B0/"
     }, 
     {
         "day": "Tuesday", 
@@ -205,7 +205,7 @@
         "time": "2:15pm", 
         "timeblock": "tuesday-pm-1", 
         "title": "Use that spreadsheet! Why leaders need to manage money", 
-        "transcription": ""
+        "transcription": "https://docs.google.com/document/d/1UVnmGAsWstMKyiEVwJpxI3fhi8iBvA09UNHAD8C6smI/"
     }, 
     {
         "day": "Tuesday", 
@@ -269,7 +269,7 @@
         "time": "4pm", 
         "timeblock": "tuesday-pm-2", 
         "title": "How to create leaders for tomorrow's newsrooms", 
-        "transcription": ""
+        "transcription": "https://docs.google.com/document/d/1GFhiCcsI0dnJphz0AGEKvc_CqRYPb-GpgYMNcwyjs8o/"
     }, 
     {
         "day": "Tuesday", 
@@ -301,7 +301,7 @@
         "time": "5:30pm", 
         "timeblock": "tuesday-talk-2", 
         "title": "SRCCON:LEAD Talks: André Natta", 
-        "transcription": ""
+        "transcription": "https://docs.google.com/document/d/1rden05dQG31NHqr4O8VEjS5CrUAfl5y_VEhv8jS-eoc/"
     }, 
     {
         "day": "Tuesday", 
@@ -349,7 +349,7 @@
         "time": "9am", 
         "timeblock": "wednesday-talk-1", 
         "title": "SRCCON:LEAD Talks: Bryan Mercer", 
-        "transcription": ""
+        "transcription": "https://docs.google.com/document/d/1f2SLefjr57BeD0NeXfWumcepDZ1H0bGU277N_pJl8Xg/"
     }, 
     {
         "day": "Wednesday", 
@@ -381,7 +381,7 @@
         "time": "9:45am", 
         "timeblock": "wednesday-am-1", 
         "title": "Growing Journalists (Not Just Their Pageviews)", 
-        "transcription": ""
+        "transcription": "https://docs.google.com/document/d/1zujgeO7cTHSP2TcS7E6m8ZKW_nEf1t8pHf1CC1lgUbM/"
     }, 
     {
         "day": "Wednesday", 
@@ -429,7 +429,7 @@
         "time": "11:30am", 
         "timeblock": "wednesday-am-2", 
         "title": "Meeting management challenges in local newsrooms", 
-        "transcription": ""
+        "transcription": "https://docs.google.com/document/d/1wwembQJErdKxI2Ma8dRDBgBpRqHIrDvAvhHbBMEzf1g/"
     }, 
     {
         "day": "Wednesday", 
@@ -497,6 +497,22 @@
     }, 
     {
         "day": "Wednesday", 
+        "description": "Let's take some time to think about what it would mean to design a project with equity at its core. As a community, we agree that equity is important: two-thirds of SRCCON:LEAD attendees' answers about what needs to change in journalism leadership cited diversity, equity, and inclusion as critical components. So, rather than having equity as a priority alongside many others, and vulnerable to being set aside, let's consider what would be necessary to keep it centered.\n\nIf you're tired of the same old ideas about what innovation can be and answers about what journalism needs to change, let's imagine better possible futures, together!", 
+        "everyone": "", 
+        "facilitators": "Erika Owens", 
+        "facilitators_twitter": "erika_owens", 
+        "id": "design-for-equity", 
+        "length": "75 minutes", 
+        "notepad": "y", 
+        "room": "Gallery", 
+        "talk": "", 
+        "time": "2pm", 
+        "timeblock": "wednesday-pm-1", 
+        "title": "How do we design for equity?", 
+        "transcription": "https://docs.google.com/document/d/1Yb_beVLd8ECyJmXqQb3EwADYKuHGgTjHp8aXYuXUusQ/"
+    }, 
+    {
+        "day": "Wednesday", 
         "description": "Change management is hard. When we set out to introduce product processes to our newsroom nearly two years ago, we were thinking about our org chart and our teams that were overworked and overwhelmed but still very passionate about serving our audience of chemists.\n\nIn this session, we'll show you how we've been gradually re-building our newsroom org chart to reflect the roles and responsibilities we have today. We'll share with you the successes we've had and the challenges we've faced as we built a product team and re-structured our newsroom around it.\n\nJoin us in this encore performance of our SRCCON 2019 session that includes a super fun and potentially extremely realistic stakeholder alignment activity.", 
         "everyone": "", 
         "facilitators": "Jessica Morrison, Amanda Yarnell", 
@@ -541,7 +557,7 @@
         "time": "3:45pm", 
         "timeblock": "wednesday-pm-2", 
         "title": "How journalists can build better support networks", 
-        "transcription": ""
+        "transcription": "https://docs.google.com/document/d/179_WBOF-LpJt9J9qv5_oytAB_RdL4mKlDmDDlu20iNE/"
     }, 
     {
         "day": "Wednesday", 
@@ -573,6 +589,6 @@
         "time": "5pm", 
         "timeblock": "wednesday-evening", 
         "title": "Closing", 
-        "transcription": ""
+        "transcription": "https://docs.google.com/document/d/1HpwV2ZhW6eOu3G5NAA4LDVIL-8BYWzYBVaYqjBctvg8/"
     }
 ]
