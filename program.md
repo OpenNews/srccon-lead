@@ -17,7 +17,7 @@ At SRCCON:LEAD, we'll come together as a community to figure out how we can resh
 
 SRCCON:LEAD takes place November 19 & 20 in Philadelphia, at the [Fleisher Art Memorial](https://fleisher.org/). Our [conference schedule](/schedule) is organized around shared experiences: meals, [talks](#talks-at-srcconlead) that orient us as a community and [participatory sessions](#sessions-at-srcconlead) where small groups share ideas.
 
-Generous breaks mean you never have to rush off to the next thing. Lunch provides a space to rest, spend time with friends, or talk about what you're learning. Dinner on Thursday evening gives you a chance to connect with people over informal conversation. We want SRCCON:POWER to feel less like a small conference and more like a big cohort.
+Generous breaks mean you never have to rush off to the next thing. Lunch provides a space to rest, spend time with friends, or talk about what you're learning. Dinner on Thursday evening gives you a chance to connect with people over informal conversation. We want SRCCON:LEAD to feel less like a small conference and more like a big cohort.
 
 ## Talks at SRCCON:LEAD
 
