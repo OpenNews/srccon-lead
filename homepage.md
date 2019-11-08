@@ -7,22 +7,36 @@ photocredit_url: https://www.flickr.com/photos/cantbecool/24086316579/in/photoli
 permalink: /index.html
 ---
 
-SRCCON:LEAD will reimagine how leadership works in journalism. Through talks, [hands-on sessions](/sessions), and emergent conversations, 125 participants will spend two days developing the skills to build more representative news organizations—from within or from the ground up. 
+SRCCON:LEAD will reimagine how leadership works in journalism. Through [talks, hands-on sessions, and emergent conversations](/program), 125 participants will spend two days developing the skills to build more representative news organizations—from within or from the ground up. 
 
-<p>&rarrhk; <strong><a href="/sessions">See the sessions coming to the SRCCON:LEAD program</a>!</strong></p>
-
-Our call for participation is now closed.
+<p>
+    &rarrhk; <strong><a href="/schedule">Check out the SRCCON:LEAD schedule</a>!</strong>
+    <br>&rarrhk; <strong><a href="/program/#talks-at-srcconlead">See the talks coming to our program</a></strong>
+    <br>&rarrhk; <strong><a href="/program/#sessions-at-srcconlead">Learn more about participatory sessions</a></strong>
+</p>
 
 ## When & where
 
 November 19 & 20 in Philadelphia, at the [Fleisher Art Memorial](https://fleisher.org/) at 719 Catharine Street.
 
-* **Tuesday, Nov. 19:** 9am-6pm
-* **Wednesday, Nov. 20:** 9am-6pm
+**Tuesday, Nov. 19**
+* **8am:** Breakfast & registration
+* **9am:** Conference program begins
+* **1:15pm:** Lunch
+* **6pm:** Conference program closes
+* **7:30pm:** [Small-group dinners](/dinner)
+
+**Wednesday, Nov. 20**
+* **8am:** Breakfast
+* **9am:** Conference program begins
+* **12:45pm:** Lunch
+* **5:30pm:** Conference program closes
+
+[See the full SRCCON:LEAD schedule](/schedule).
 
 ## About SRCCON:LEAD
 
-SRCCON:LEAD is the third in a series of smaller, thematic events built around the hands-on problem-solving that the news-nerd community brings into [SRCCON](https://srccon.org) events. [SRCCON:WORK](https://work.srccon.org/) explored how we support each other and collaborate. [SRCCON:POWER](https://work.srccon.org/) dug into the power dynamics of newsroom relationships and decisionmaking.
+SRCCON:LEAD is the third in a series of smaller, thematic events built around the hands-on problem-solving that the news-nerd community brings into [SRCCON](https://srccon.org) events. [SRCCON:WORK](https://work.srccon.org/) explored how we support each other and collaborate. [SRCCON:POWER](https://power.srccon.org/) dug into the power dynamics of newsroom relationships and decisionmaking.
 
 Those themes carry us into SRCCON:LEAD, where we'll:
 
