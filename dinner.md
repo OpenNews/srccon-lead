@@ -10,7 +10,7 @@ permalink: /dinner/
 
 At our events, we love to feed folks and look for chances to enjoy the flavor of the city too (just wait till you see our snacks). This year, we're bringing back small group dinners around the city for our Tuesday evening meal. These dinners are [inspired by AdaCamp](https://adacamp.org/adacamp-toolkit/group-dinners/), and we're excited to share them with you!
 
-So what's this all about? We will make reservations at restaurants around town, with a mix of cuisine types and locations. We'll open up the signup sheet the week before SRCCON:LEAD. The reservations will be for 10 people, so you'll be able to get to know a smaller group of folks a little bit better. 
+So what's this all about? We will make reservations at restaurants around town, with a mix of cuisine types and locations. [Sign up now for a spot at dinner!](https://docs.google.com/spreadsheets/d/12wEqTZ8F3sekapDNK43nSzzKuWaESRs4x2hEWf0sk6A/edit#gid=0) The reservations will be for 8-10 people, so you'll be able to get to know a smaller group of folks a little bit better. 
 
 ## What time does dinner start?
 
@@ -24,7 +24,11 @@ We'll keep track of host signups and ensure that every dinner is covered by eith
 
 ## How can I be part of a dinner?
 
-We will post a signup spreadsheet. All you'll need to do is find a dinner with an unfilled attendee slot and enter your name. You’ll be all set.
+Look at the [sign-up sheet](https://docs.google.com/spreadsheets/d/12wEqTZ8F3sekapDNK43nSzzKuWaESRs4x2hEWf0sk6A/edit#gid=0), find a dinner with an unfilled attendee slot, and enter your name. You’re set.
+
+## Can I help host a dinner?
+
+That'd be wonderful! We put together [a doc with some details about hosting a dinner](https://etherpad.opennews.org/p/SRCCONLEAD-dinnerhosting) (either as part of sponsorsing a dinner or just hosting).
 
 ## Can I go to a restaurant not on the list?
 
@@ -44,7 +48,7 @@ Please choose a dinner with more slots or [let us know](mailto:erika@opennews.or
 
 ## When I arrive at the restaurant, what reservation do I ask for?
 
-Reservations are mostly under the name “Erik Westra.” Check the field in the dinner document to confirm yours.
+Reservations are mostly under the name of someone from the OpenNews team (Erik Westra, Erika Owens, Ryan Pitts). Check the field in the dinner document to confirm yours.
 
 ## How do I get to the restaurant?
 
