@@ -49,6 +49,22 @@
     }, 
     {
         "day": "Tuesday", 
+        "description": "Change is hard at the best of times. But our industry is undergoing a significant crisis (of trust, of business models), which makes effecting change even harder. And as if that weren’t enough, our work is often centered around coverage of political, social and environmental events that can be upsetting, if not downright terrifying. So how do we approach this environment as leaders? What does it mean to push for change in an organization when people are afraid? What does it mean to lead when you, yourself, are probably afraid too?", 
+        "everyone": "", 
+        "facilitators": "Ariane Bernard, Sasha Koren", 
+        "facilitators_twitter": "arianebernard, sashak", 
+        "id": "leading-times-of-fear", 
+        "length": "75 minutes", 
+        "notepad": "y", 
+        "room": "Sanctuary", 
+        "talk": "", 
+        "time": "10:15am", 
+        "timeblock": "tuesday-am-1", 
+        "title": "Leading in times of fear", 
+        "transcription": ""
+    }, 
+    {
+        "day": "Tuesday", 
         "description": "In recent years, many news organizations have published their diversity reports to educate folks in the industry about their challenges with diversity and to indicate that they are taking newsroom diversity seriously. This has also led to a number of conversations in the Journalists of Color slack and at other in-person settings about diversity committees at news organizations trying to figure out what their diversity report should cover and how they can convince management to publish effective indicators of diversity.\n\nIn this session we would like to facilitate a conversation around the topic of diversity reports. We will start with a quick survey of recent diversity reports published by prominent journalism outlets and then move to a discussion/group activity to work out what measures should be included in diversity reports to further the actual goals of increasing diversity in newsrooms.", 
         "everyone": "", 
         "facilitators": "Disha Raychaudhuri, Moiz Syed", 
@@ -62,22 +78,6 @@
         "timeblock": "tuesday-am-1", 
         "title": "The State of Newsroom Diversity Reports", 
         "transcription": "https://docs.google.com/document/d/1VEKKYw71hPtmAxMwwpw-X17sOzPtfe4qC0Xh9hw9R9Y/"
-    }, 
-    {
-        "day": "Tuesday", 
-        "description": "Change is hard at the best of times. But our industry is undergoing a significant crisis (of trust, of business models), which makes effecting change even harder. And as if that weren’t enough, our work is often centered around coverage of political, social and environmental events that can be upsetting, if not downright terrifying. So how do we approach this environment as leaders? What does it mean to push for change in an organization when people are afraid? What does it mean to lead when you, yourself, are probably afraid too?", 
-        "everyone": "", 
-        "facilitators": "Ariane Bernard, Sasha Koren", 
-        "facilitators_twitter": "arianebernard, sashak", 
-        "id": "leading-times-of-fear", 
-        "length": "75 minutes", 
-        "notepad": "y", 
-        "room": "Studio 1", 
-        "talk": "", 
-        "time": "10:15am", 
-        "timeblock": "tuesday-am-1", 
-        "title": "Leading in times of fear", 
-        "transcription": ""
     }, 
     {
         "day": "Tuesday", 
