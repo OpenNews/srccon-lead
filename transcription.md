@@ -27,3 +27,5 @@ Our captioner will provide live transcription of each talk and several of the se
 {% endfor %}
     </table>
 </div>
+
+<p class="sponsor-tag">Transcription at SRCCON:LEAD is made possible by <a href="https://www.lenfestinstitute.org/"><img src="/media/img/partners/lenfest.png" class="" alt="The Lenfest Institute"></a></p>

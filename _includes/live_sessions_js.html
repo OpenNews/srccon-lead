@@ -1,0 +1,117 @@
+<script src="/media/js/moment.min.js"></script>
+<script src="/media/js/moment.timezone.min.js"></script>
+<script>
+// add timezone and set default per http://momentjs.com/timezone/docs/#/data-loading/
+moment.tz.add('America/New_York|EST EDT EWT EPT|50 40 40 40|01010101010101010101010101010101010101010101010102301010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010|-261t0 1nX0 11B0 1nX0 11B0 1qL0 1a10 11z0 1qN0 WL0 1qN0 11z0 1o10 11z0 1o10 11z0 1o10 11z0 1o10 11z0 1qN0 11z0 1o10 11z0 1o10 11z0 1o10 11z0 1o10 11z0 1qN0 WL0 1qN0 11z0 1o10 11z0 1o10 11z0 1o10 11z0 1o10 11z0 1qN0 WL0 1qN0 11z0 1o10 11z0 RB0 8x40 iv0 1o10 11z0 1o10 11z0 1o10 11z0 1o10 11z0 1qN0 WL0 1qN0 11z0 1o10 11z0 1o10 11z0 1o10 11z0 1o10 1fz0 1cN0 1cL0 1cN0 1cL0 1cN0 1cL0 1cN0 1cL0 1cN0 1fz0 1cN0 1cL0 1cN0 1cL0 1cN0 1cL0 1cN0 1cL0 1cN0 1fz0 1a10 1fz0 1cN0 1cL0 1cN0 1cL0 1cN0 1cL0 1cN0 1cL0 1cN0 1fz0 1cN0 1cL0 1cN0 1cL0 s10 1Vz0 LB0 1BX0 1cN0 1fz0 1a10 1fz0 1cN0 1cL0 1cN0 1cL0 1cN0 1cL0 1cN0 1cL0 1cN0 1fz0 1a10 1fz0 1cN0 1cL0 1cN0 1cL0 1cN0 1cL0 14p0 1lb0 14p0 1nX0 11B0 1nX0 11B0 1nX0 14p0 1lb0 14p0 1lb0 14p0 1nX0 11B0 1nX0 11B0 1nX0 14p0 1lb0 14p0 1lb0 14p0 1lb0 14p0 1nX0 11B0 1nX0 11B0 1nX0 14p0 1lb0 14p0 1lb0 14p0 1nX0 11B0 1nX0 11B0 1nX0 Rd0 1zb0 Op0 1zb0 Op0 1zb0 Rd0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Rd0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Rd0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Rd0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Rd0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0 Op0 1zb0|21e6');
+moment.tz.setDefault("America/New_York");
+var now = moment(),
+    tuesdayMorning = moment('2019-11-19 08:00'),
+    tuesdayTalk1 = moment('2019-11-19 09:30'),
+    tuesdayAM1 = moment('2019-11-19 10:15'),
+    tuesdayAMbreak = moment('2019-11-19 11:30'),
+    tuesdayAM2 = moment('2019-11-19 12:00'),
+    tuesdayLunch = moment('2019-11-19 13:15'),
+    tuesdayPM1 = moment('2019-11-19 14:15'),
+    tuesdayPMbreak = moment('2019-11-19 15:30'),
+    tuesdayPM2 = moment('2019-11-19 16:00'),
+    tuesdayTalk2 = moment('2019-11-19 17:30'),
+    tuesdayEvening = moment('2019-11-19 19:30'),
+    tuesdayEveningEnd = moment('2019-11-19 21:30'),
+    wednesdayMorning = moment('2019-11-20 08:00'),
+    wednesdayTalk1 = moment('2019-11-20 9:00'),
+    wednesdayAM1 = moment('2019-11-20 9:45'),
+    wednesdayAMbreak = moment('2019-11-20 11:00'),
+    wednesdayAM2 = moment('2019-11-18 11:30'),
+    wednesdayLunch = moment('2019-11-18 12:45'),
+    wednesdayPM1 = moment('2019-11-20 14:00'),
+    wednesdayPMbreak = moment('2019-11-20 15:15'),
+    wednesdayPM2 = moment('2019-11-20 15:45'),
+    wednesdayEvening = moment('2019-11-20 17:00'),
+    wednesdayEveningEnd = moment('2019-11-20 17:30');
+
+var showLive = function(timeblock) {
+    var timeblockToShow = '',
+        leaderText = '';
+        
+    switch(true) {
+        case now.isBetween(tuesdayMorning, tuesdayTalk1):
+            timeblockToShow = '.live-tuesday-morning';
+            break;
+        case now.isBetween(tuesdayTalk1, tuesdayAM1):
+            timeblockToShow = '.live-tuesday-talk-1';
+            break;
+        case now.isBetween(tuesdayAM1, tuesdayAMbreak):
+            timeblockToShow = '.live-tuesday-am-1';
+            break;
+        case now.isBetween(tuesdayAMbreak, tuesdayAM2):
+            timeblockToShow = '.live-tuesday-am-2';
+            leaderText = 'Next up at SRCCON:LEAD';
+            break;
+        case now.isBetween(tuesdayAM2, tuesdayLunch):
+            timeblockToShow = '.live-tuesday-am-2';
+            break;
+        case now.isBetween(tuesdayLunch, tuesdayPM1):
+            timeblockToShow = '.live-tuesday-lunch';
+            break;
+        case now.isBetween(tuesdayPM1, tuesdayPMbreak):
+            timeblockToShow = '.live-tuesday-pm-1';
+            break;
+        case now.isBetween(tuesdayPMbreak, tuesdayPM2):
+            timeblockToShow = '.live-tuesday-pm-2';
+            leaderText = 'Next up at SRCCON:LEAD';
+            break;
+        case now.isBetween(tuesdayPM2, tuesdayTalk1):
+            timeblockToShow = '.live-tuesday-pm-2';
+            break;
+        case now.isBetween(tuesdayTalk1, tuesdayEvening):
+            timeblockToShow = '.live-tuesday-talk-2';
+            break;
+        case now.isBetween(tuesdayEvening, tuesdayEveningEnd):
+            timeblockToShow = '.live-tuesday-evening';
+            break;
+        case now.isBetween(wednesdayMorning, wednesdayTalk1):
+            timeblockToShow = '.live-wednesday-morning';
+            break;
+        case now.isBetween(wednesdayTalk1, wednesdayAM1):
+            timeblockToShow = '.live-wednesday-talk-1';
+            break;
+        case now.isBetween(wednesdayAM1, wednesdayAMbreak):
+            timeblockToShow = '.live-wednesday-am-1';
+            break;
+        case now.isBetween(wednesdayAMbreak, wednesdayAM2):
+            timeblockToShow = '.live-wednesday-am-2';
+            leaderText = 'Next up at SRCCON:LEAD';
+            break;
+        case now.isBetween(wednesdayAM2, wednesdayLunch):
+            timeblockToShow = '.live-wednesday-am-2';
+            break;
+        case now.isBetween(wednesdayLunch, wednesdayPM1):
+            timeblockToShow = '.live-wednesday-lunch';
+            break;
+        case now.isBetween(wednesdayPM1, wednesdayPMbreak):
+            timeblockToShow = '.live-wednesday-pm-1';
+            break;
+        case now.isBetween(wednesdayPMbreak, wednesdayPM2):
+            timeblockToShow = '.live-wednesday-pm-2';
+            leaderText = 'Next up at SRCCON:LEAD';
+            break;
+        case now.isBetween(wednesdayPM2, wednesdayEvening):
+            timeblockToShow = '.live-wednesday-pm-2';
+            break;
+        case now.isBetween(wednesdayEvening, wednesdayEveningEnd):
+            timeblockToShow = '.live-wednesday-evening';
+            break;
+    }
+    
+    if (timeblockToShow) {
+        document.querySelector('.live').classList.remove('hidden');
+        [].forEach.call(document.querySelectorAll(timeblockToShow), function(el) {
+            el.classList.remove('hidden');
+        });
+        if (leaderText) {
+            document.querySelector('#live-leader').innerHTML = leaderText;
+        }
+    }
+}
+showLive();
+</script>
