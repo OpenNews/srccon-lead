@@ -197,6 +197,9 @@ main {
 main ul, main p {
     margin: 0 0 1em;
 }
+main p + ul.hug {
+    margin-top: -1em;
+}
 main input {
     font-size: .75em;
     padding: .25em;
