@@ -58,7 +58,7 @@
         "notepad": "y", 
         "room": "Sanctuary", 
         "talk": "", 
-        "time": "10:15am", 
+        "time": "10:15-11:30am", 
         "timeblock": "tuesday-am-1", 
         "title": "Leading in times of fear", 
         "transcription": ""
@@ -74,7 +74,7 @@
         "notepad": "y", 
         "room": "Gallery", 
         "talk": "", 
-        "time": "10:15am", 
+        "time": "10:15-11:30am", 
         "timeblock": "tuesday-am-1", 
         "title": "The State of Newsroom Diversity Reports", 
         "transcription": "https://docs.google.com/document/d/1VEKKYw71hPtmAxMwwpw-X17sOzPtfe4qC0Xh9hw9R9Y/"
@@ -90,7 +90,7 @@
         "notepad": "y", 
         "room": "Studio 2", 
         "talk": "", 
-        "time": "10:15am", 
+        "time": "10:15-11:30am", 
         "timeblock": "tuesday-am-1", 
         "title": "On your own: building the leadership model that works for you", 
         "transcription": ""
@@ -106,7 +106,7 @@
         "notepad": "y", 
         "room": "Sanctuary", 
         "talk": "", 
-        "time": "12pm", 
+        "time": "12-1:15pm", 
         "timeblock": "tuesday-am-2", 
         "title": "How not to be 'The Man'", 
         "transcription": ""
@@ -122,7 +122,7 @@
         "notepad": "y", 
         "room": "Gallery", 
         "talk": "", 
-        "time": "12pm", 
+        "time": "12-1:15pm", 
         "timeblock": "tuesday-am-2", 
         "title": "How to succeed and thrive in places that weren’t designed for you", 
         "transcription": "https://docs.google.com/document/d/15hpy-gPUUwBMXQiyi0FvJ80qFlOh2gb7wGgEKTT12B0/"
@@ -138,7 +138,7 @@
         "notepad": "y", 
         "room": "Studio 1", 
         "talk": "", 
-        "time": "12pm", 
+        "time": "12-1:15pm", 
         "timeblock": "tuesday-am-2", 
         "title": "How to have difficult conversations (and solve problems in the process)", 
         "transcription": ""
@@ -154,7 +154,7 @@
         "notepad": "y", 
         "room": "Studio 2", 
         "talk": "", 
-        "time": "12pm", 
+        "time": "12-1:15pm", 
         "timeblock": "tuesday-am-2", 
         "title": "Effective Hiring Shapes Newsroom Culture", 
         "transcription": ""
@@ -186,7 +186,7 @@
         "notepad": "y", 
         "room": "Sanctuary", 
         "talk": "", 
-        "time": "2:15pm", 
+        "time": "2:15-3:30pm", 
         "timeblock": "tuesday-pm-1", 
         "title": "Like a Boss", 
         "transcription": ""
@@ -202,7 +202,7 @@
         "notepad": "y", 
         "room": "Gallery", 
         "talk": "", 
-        "time": "2:15pm", 
+        "time": "2:15-3:30pm", 
         "timeblock": "tuesday-pm-1", 
         "title": "Use that spreadsheet! Why leaders need to manage money", 
         "transcription": "https://docs.google.com/document/d/1UVnmGAsWstMKyiEVwJpxI3fhi8iBvA09UNHAD8C6smI/"
@@ -218,7 +218,7 @@
         "notepad": "y", 
         "room": "Studio 1", 
         "talk": "", 
-        "time": "2:15pm", 
+        "time": "2:15-3:30pm", 
         "timeblock": "tuesday-pm-1", 
         "title": "The workplace roadblocks that women face — and what to do about them", 
         "transcription": ""
@@ -234,7 +234,7 @@
         "notepad": "y", 
         "room": "Studio 2", 
         "talk": "", 
-        "time": "2:15pm", 
+        "time": "2:15-3:30pm", 
         "timeblock": "tuesday-pm-1", 
         "title": "Thinking Beyond Your Newsroom: The 2020 Census", 
         "transcription": ""
@@ -250,7 +250,7 @@
         "notepad": "y", 
         "room": "Sanctuary", 
         "talk": "", 
-        "time": "4pm", 
+        "time": "4-5:15pm", 
         "timeblock": "tuesday-pm-2", 
         "title": "Sometimes, Becoming an Editor/Manager Makes You Like Your Job Less. Come Learn Why and What You Can Do to Not Feel That Way.", 
         "transcription": ""
@@ -266,7 +266,7 @@
         "notepad": "y", 
         "room": "Gallery", 
         "talk": "", 
-        "time": "4pm", 
+        "time": "4-5:15pm", 
         "timeblock": "tuesday-pm-2", 
         "title": "How to create leaders for tomorrow's newsrooms", 
         "transcription": "https://docs.google.com/document/d/1GFhiCcsI0dnJphz0AGEKvc_CqRYPb-GpgYMNcwyjs8o/"
@@ -282,7 +282,7 @@
         "notepad": "y", 
         "room": "Studio 1", 
         "talk": "", 
-        "time": "4pm", 
+        "time": "4-5:15pm", 
         "timeblock": "tuesday-pm-2", 
         "title": "Toward a more resilient newsroom: Redistributing power through participation", 
         "transcription": ""
@@ -362,7 +362,7 @@
         "notepad": "y", 
         "room": "Sanctuary", 
         "talk": "", 
-        "time": "9:45am", 
+        "time": "9:45-11am", 
         "timeblock": "wednesday-am-1", 
         "title": "Decolonizing decisions: an inclusive framework for collaboration", 
         "transcription": ""
@@ -378,7 +378,7 @@
         "notepad": "y", 
         "room": "Gallery", 
         "talk": "", 
-        "time": "9:45am", 
+        "time": "9:45-11am", 
         "timeblock": "wednesday-am-1", 
         "title": "Evaluation Systems That Grow Journalists (Not Just Their Pageviews)", 
         "transcription": "https://docs.google.com/document/d/1zujgeO7cTHSP2TcS7E6m8ZKW_nEf1t8pHf1CC1lgUbM/"
@@ -394,7 +394,7 @@
         "notepad": "y", 
         "room": "Studio 1", 
         "talk": "", 
-        "time": "9:45am", 
+        "time": "9:45-11am", 
         "timeblock": "wednesday-am-1", 
         "title": "To Be Better Leaders In Journalism, Let’s Look Beyond Journalism", 
         "transcription": ""
@@ -410,7 +410,7 @@
         "notepad": "y", 
         "room": "Sanctuary", 
         "talk": "", 
-        "time": "11:30am", 
+        "time": "11:30am-12:45pm", 
         "timeblock": "wednesday-am-2", 
         "title": "How can you lead what you don’t understand?", 
         "transcription": ""
@@ -426,7 +426,7 @@
         "notepad": "y", 
         "room": "Gallery", 
         "talk": "", 
-        "time": "11:30am", 
+        "time": "11:30am-12:45pm", 
         "timeblock": "wednesday-am-2", 
         "title": "How do we design for equity?", 
         "transcription": "https://docs.google.com/document/d/1Yb_beVLd8ECyJmXqQb3EwADYKuHGgTjHp8aXYuXUusQ/"
@@ -442,7 +442,7 @@
         "notepad": "y", 
         "room": "Studio 1", 
         "talk": "", 
-        "time": "11:30am", 
+        "time": "11:30am-12:45pm", 
         "timeblock": "wednesday-am-2", 
         "title": "How do we track team decisions?", 
         "transcription": ""
@@ -474,7 +474,7 @@
         "notepad": "y", 
         "room": "Sanctuary", 
         "talk": "", 
-        "time": "2pm", 
+        "time": "2-3:15pm", 
         "timeblock": "wednesday-pm-1", 
         "title": "Start with why: A framework for motivating a team", 
         "transcription": ""
@@ -490,7 +490,7 @@
         "notepad": "y", 
         "room": "Gallery", 
         "talk": "", 
-        "time": "2pm", 
+        "time": "2-3:15pm", 
         "timeblock": "wednesday-pm-1", 
         "title": "Meeting management challenges in local newsrooms", 
         "transcription": "https://docs.google.com/document/d/1wwembQJErdKxI2Ma8dRDBgBpRqHIrDvAvhHbBMEzf1g/"
@@ -506,7 +506,7 @@
         "notepad": "y", 
         "room": "Studio 1", 
         "talk": "", 
-        "time": "2pm", 
+        "time": "2-3:15pm", 
         "timeblock": "wednesday-pm-1", 
         "title": "How to re-org your newsroom around product without breaking it", 
         "transcription": ""
@@ -522,7 +522,7 @@
         "notepad": "y", 
         "room": "Sanctuary", 
         "talk": "", 
-        "time": "3:45pm", 
+        "time": "3:45-5pm", 
         "timeblock": "wednesday-pm-2", 
         "title": "Democratic leadership in the newsroom", 
         "transcription": ""
@@ -538,7 +538,7 @@
         "notepad": "y", 
         "room": "Gallery", 
         "talk": "", 
-        "time": "3:45pm", 
+        "time": "3:45-5pm", 
         "timeblock": "wednesday-pm-2", 
         "title": "How journalists can build better support networks", 
         "transcription": "https://docs.google.com/document/d/179_WBOF-LpJt9J9qv5_oytAB_RdL4mKlDmDDlu20iNE/"
@@ -554,7 +554,7 @@
         "notepad": "y", 
         "room": "Studio 1", 
         "talk": "", 
-        "time": "3:45pm", 
+        "time": "3:45-5pm", 
         "timeblock": "wednesday-pm-2", 
         "title": "How to lead without power", 
         "transcription": ""
