@@ -6,48 +6,19 @@ photocredit_url: https://www.flickr.com/photos/cantbecool/24086316579/in/photoli
 permalink: /index.html
 ---
 
-# SRCCON:LEAD Attendees, welcome to Philly!
+# Thank you, SRCCON:LEAD participants!
 
-We are so glad to have you here with us. If you need logistics info, [we have you covered](/logistics), and of course the handy, mobile-friendly [schedule app](https://lead.srccon.org/schedule) is available for all your session-planning needs. The registration desk in the lobby will be staffed throughout the event, and our safety and support helpline is **(612) 584-1131**.
-
-If you’re not here with us in Philly, we invite you to check out our [**remote-participation options**](/transcription).
-
-
-{% include live_sessions_table.html %}
-
-
-SRCCON:LEAD will reimagine how leadership works in journalism. Through [talks, hands-on sessions, and emergent conversations](/program), 125 participants will spend two days developing the skills to build more representative news organizations—from within or from the ground up. 
+We're so glad you were in Philly with us, reimagining how leadership works in journalism. Through [talks, hands-on sessions, and emergent conversations](/program), more than 100 people spent two days developing the skills to build more representative news organizations—from within or from the ground up. 
 
 <p>
     &rarrhk; <strong><a href="/schedule">Check out the SRCCON:LEAD schedule</a>!</strong>
-    <br>&rarrhk; <strong><a href="/program/#talks-at-srcconlead">See the talks coming to our program</a></strong>
+    <br>&rarrhk; <strong><a href="/program/#talks-at-srcconlead">See the talks on our program</a></strong>
     <br>&rarrhk; <strong><a href="/program/#sessions-at-srcconlead">Learn more about participatory sessions</a></strong>
 </p>
 
 ## When & where
 
-November 19 & 20 in Philadelphia, at the [Fleisher Art Memorial](https://fleisher.org/) at 719 Catharine Street.
-
-**Tuesday, Nov. 19**
-
-<ul class="hug">
-    <li><strong>8am:</strong> Breakfast & registration</li>
-    <li><strong>9am:</strong> Conference program begins</li>
-    <li><strong>1:15pm:</strong> Lunch</li>
-    <li><strong>6pm:</strong> Conference program closes</li>
-    <li><strong>7:30pm:</strong> <a href="/dinner">Small-group dinners</a></li>
-</ul>
-
-**Wednesday, Nov. 20**
-
-<ul class="hug">
-    <li><strong>8am:</strong> Breakfast</li>
-    <li><strong>9am:</strong> Conference program begins</li>
-    <li><strong>12:45pm:</strong> Lunch</li>
-    <li><strong>5:30pm:</strong> Conference program closes</li>
-</ul>
-
-[See the full SRCCON:LEAD schedule](/schedule)
+On November 19 & 20, 2019, SRCCON:LEAD took place at the [Fleisher Art Memorial](https://fleisher.org/) in Philadelphia.
 
 ## About SRCCON:LEAD
 
@@ -67,5 +38,3 @@ Our program has collaboration at its heart, with sessions proposed and led by co
 ## What's next?
 
 Stay in touch by following [@SRCCON](https://twitter.com/srccon) and find out about upcoming deadlines by [joining our mailing list](http://eepurl.com/czSVTL). If you have a specific question, please [reach out](mailto:srccon@opennews.org).
-
-{% include live_sessions_js.html %}
