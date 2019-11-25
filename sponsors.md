@@ -2,6 +2,7 @@
 layout: layout
 section: sponsors
 permalink: /sponsors/
+title: SRCCON:LEAD 2019 — Our Sponsors
 ---
 
 <div class="sponsor-block">

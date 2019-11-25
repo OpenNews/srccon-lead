@@ -4,11 +4,18 @@
 <!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
 <head>
     <meta charset="utf-8" />
-
-    <title>{% if page.title %}{{ page.title }} | SRCCON:LEAD{% else %}Join us at SRCCON:LEAD!{% endif %} | November 19 & 20, Philadelphia</title>
-
+    {% if page.title %}
+    <title>{{ page.title }}</title>
+    {% else %}
+    <title>SRCCON:LEAD 2019 — November 19 & 20, Philadelphia</title>
+    {% endif %}
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="SRCCON:LEAD is a brand new small conference for 2019, where we'll reimagine how leadership works in journalism.">
+    {% if page.title %}
+    <meta property="og:title" content="{{ page.title }}">
+    {% endif %}
+    <meta property="og:type" content="article">
+    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}SRCCON:LEAD is a brand new small conference for 2019, where we'll reimagine how leadership works in journalism.{% endif %}"/>
 
     <script src="//use.typekit.net/mvg8obr.js"></script>
     <script>try{Typekit.load();}catch(e){}</script>

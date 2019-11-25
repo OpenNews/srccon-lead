@@ -4,6 +4,7 @@ section: sessions
 photocredit: Erik Westra
 photocredit_url: http://www.westraco.com/
 permalink: /program/
+title: SRCCON:LEAD 2019 — About Our Program
 ---
 
 # The SRCCON:LEAD program

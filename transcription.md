@@ -2,6 +2,7 @@
 layout: layout
 section: remote
 permalink: /transcription/
+title: SRCCON:LEAD 2019 — Transcription
 ---
 
 # Transcription

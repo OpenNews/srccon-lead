@@ -4,6 +4,7 @@ section: volunteer
 photocredit: Erik Westra
 photocredit_url: http://www.westraco.com/
 permalink: /volunteer/
+title: SRCCON:LEAD 2019 — Volunteers
 ---
 
 # Volunteer at SRCCON:LEAD

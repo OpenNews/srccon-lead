@@ -4,6 +4,7 @@ section: logistics
 photocredit: Ben Grey
 photocredit_url: https://www.flickr.com/photos/ben_grey/5875235043/asdfasdflk
 permalink: /dinner/
+title: SRCCON:LEAD 2019 — Small-Group Dinners
 ---
 
 # Tuesday Night Dinner
