@@ -5,105 +5,83 @@ permalink: /documentation/
 title: SRCCON:LEAD 2019 — Documentation
 ---
 
-# SRCCON 2019 Documentation
+# SRCCON:LEAD 2019 Documentation
 
-It's important to us to keep SRCCON small enough to feel friendly and conversational, but we also care about getting the ideas and conversations that take place at SRCCON into the wider world. The most important way this happens is when attendees return to their newsrooms and put new skills and approaches to work, but we also document SRCCON as extensively as possible. This page collects resources you can refer back to as you bring SRCCON home with you:
+It's important to us to keep SRCCON events small enough to feel friendly and conversational, but we also care about getting the ideas people discuss into the wider world. The most important way this happens is when attendees return to their newsrooms and put new skills and approaches to work, but we also document as extensively as possible. This page collects resources you can refer back to:
 
 * [Session transcripts](#session-transcripts)
 * [Session notes & resources](#session-notes--resources)
-* [Session write-ups on Source](#session-write-ups)
 
 ## Session Transcripts
 
 Our live-captioner transcribed each talk and 8 sessions at SRCCON:LEAD. Sessions with transcripts are marked on [our full schedule](https://lead.srccon.org/schedule), or you can use the lists below. If you were in a session and you notice something that needs to be fixed, we'd love [to hear about it](mailto:srccon@opennews.org).
 
 <div>
-    <h3>Thursday transcribed sessions</h3>
-    <table>{% assign thursday = site.data.schedule | where:"day","Thursday" %}
-{% for session in thursday %}
-        {% if session.transcription != "" %}<tr><td>{{ session.time }}</td><td><a class="session-title" href="/transcripts/SRCCON2019-{{ session.id }}">{{ session.title }}</a></td></tr>{% endif %}
+    <h3>Tuesday</h3>
+    <table>{% assign tuesday = site.data.schedule | where:"day","Tuesday" %}
+{% for session in tuesday %}
+        {% if session.transcription != "" %}<tr><td>{{ session.time }}</td><td><a href="{{ session.transcription }}">{{ session.title }}</a></td></tr>{% endif %}
 {% endfor %}
     </table>
 </div>
 
 <div>
-    <h3>Friday transcribed sessions</h3>
-    <table>{% assign friday = site.data.schedule | where:"day","Friday" %}
-{% for session in friday %}
-        {% if session.transcription != "" %}<tr><td>{{ session.time }}</td><td><a class="session-title" href="/transcripts/SRCCON2019-{{ session.id }}">{{ session.title }}</a></td></tr>{% endif %}
+    <h3>Wednesday</h3>
+    <table>{% assign wednesday = site.data.schedule | where:"day","Wednesday" %}
+{% for session in wednesday %}
+        {% if session.transcription != "" %}<tr><td>{{ session.time }}</td><td><a href="{{ session.transcription }}">{{ session.title }}</a></td></tr>{% endif %}
 {% endfor %}
     </table>
 </div>
 
 ## Session Notes & Resources
 
-All sessions at SRCCON have a collaborative etherpad that facilitators and attendees can use to share links and capture notes on discussions as they take place. Each entry on [our schedule](https://schedule.srccon.org) has a link to that session's etherpad. We also collect slide decks, worksheets, and other documentation right here—if you're a facilitator and you have session resources to share, [let us know](mailto:srccon@opennews.org)!
+All sessions at SRCCON events have a collaborative etherpad that facilitators and attendees can use to share links and capture notes. Each entry on [our schedule](https://lead.srccon.org/schedule) has a link to that session's etherpad. We also collect slide decks, worksheets, and other documentation right here—if you're a facilitator and you have session resources to share, [let us know](mailto:srccon@opennews.org)!
 
-* ["“Abandon normal instruments”: Sideways strategies for defeating creative block" session notes](https://etherpad.opennews.org/p/SRCCON2019-creative-strategies)
-* ["“Abandon normal instruments”: Sideways strategies for defeating creative block" slides](https://docs.google.com/presentation/d/1urnD-lnBjX2TxGvqAuWpT_y5TKV3-vzgXd7pf7fYScc/edit#slide=id.g5d09e5e8e8_0_5)
-* ["A playbook for reporters interested in reaching people at risk of being undercounted" session notes](https://etherpad.opennews.org/p/SRCCON2019-census-coverage-playbook)
-* ["Beat as a product: Lessons from product innovation for the newsroom" session notes](https://etherpad.opennews.org/p/SRCCON2019-beat-as-product)
-* ["Being in the room: the hard work of interview-based hiring" session notes](https://etherpad.opennews.org/p/SRCCON2019-interview-based-hiring)
-* ["Building capacity, impact, and trust by tapping into expertise outside the newsroom" session notes](https://etherpad.opennews.org/p/SRCCON2019-expertise-outside-newsroom)
-* ["CMS Demos: Approaches to Helping Our Newsrooms Do Their Best Work" session notes](https://etherpad.opennews.org/p/SRCCON2019-cms-demos)
-* ["Calling All Media Diversity Avengers: Now’s the time to act." session notes](https://etherpad.opennews.org/p/SRCCON2019-media-diversity-allies)
-* ["Changing journalism’s awards culture" session notes](https://etherpad.opennews.org/p/SRCCON2019-changing-awards-culture)
-* ["Creative ways to teach complex issues" session notes](https://etherpad.opennews.org/p/SRCCON2019-creative-teaching)
-* ["Creative ways to teach complex issues" slides](https://docs.google.com/presentation/d/1qujD1cpVAkaPOq0YPqrIKxHJcbkQo97385xNPTve_98/edit#slide=id.p1)
-* ["Designing the next phase for newsroom technologists" slides](https://docs.google.com/presentation/d/1NdD8FDz4qTFD40m9H2ECZXBLCDugY7MsceCcHsQzlkM/edit#slide=id.p)
-* ["Document this conference! An introduction to Library." session notes](https://etherpad.opennews.org/p/SRCCON2019-document-library)
-* ["Engineering Beyond Blame" session notes](https://etherpad.opennews.org/p/SRCCON2019-engineering-beyond-blame)
-* ["Engineering Beyond Blame" slides](https://docs.google.com/presentation/d/1P9b8K2OOmD_A-eG5Cy8FfLQ8UNhe5_KfeRgsAgcNfMs/edit#slide=id.g5dbc31ce86_0_0)
-* ["Fade In: What Data Journalism Can Learn from Screenwriting" session notes](https://etherpad.opennews.org/p/SRCCON2019-learning-from-screenwriting)
-* ["Fade In: What Data Journalism Can Learn from Screenwriting" slides](https://docs.google.com/presentation/d/1yaQiVIek6JZ6LO8n11aNS0XIp2pJ6baRux3sFlY0ldo/edit)
-* ["Fix your feedback loop: Letting people, not polls, drive your election coverage" session notes](https://etherpad.opennews.org/p/SRCCON2019-people-polls-elections)
-* ["Fix your feedback loop: Letting people, not polls, drive your election coverage" slides](https://docs.google.com/presentation/d/1pYqr86Sqr5Hz48PcEEY2lL3dK-s_3jwX-h9Qq0IL4H0/edit#slide=id.g2432869b74_0_328)
-* ["Game of Newsletters: A song of inboxes and subject lines" session notes](https://etherpad.opennews.org/p/SRCCON2019-newsletter-strategy)
-* ["Game of Newsletters: A song of inboxes and subject lines" slides](https://docs.google.com/presentation/d/1f5YugZzEf3BBbNuPqqh90ZX8l2pXzI0PSkvwGJYwkIc/edit#slide=id.p)
-* ["Game of Newsletters: A song of inboxes and subject lines" cards & worksheets](https://docs.google.com/document/d/1KY4pz9p9FaSinF_Fzt7CeZngS4iasKb7-PccRqa0jJs/edit)
-* ["Ghosts in the Machine: How technology is shaping our lives and how we can build a better way" session notes](https://etherpad.opennews.org/p/SRCCON2019-ghosts-in-the-machine)
-* ["How are we in community together?" session notes](https://etherpad.opennews.org/p/SRCCON2019-how-are-we-in-community)
-* ["How can newsrooms be more active catalysts for change?" session notes](https://etherpad.opennews.org/p/SRCCON2019-catalysts-for-change)
-* ["How can newsrooms be more active catalysts for change?" slides](https://docs.google.com/presentation/d/12P2I-tqoddAz-0XgixpkApAuMykrX0YzARo-EuJw5PI/edit)
-* ["How to edit data as seriously as we edit words" session notes](https://etherpad.opennews.org/p/SRCCON2019-editing-data)
-* ["How to re-org your newsroom around product without breaking it" session notes](https://etherpad.opennews.org/p/SRCCON2019-newsroom-reorg-product)
-* ["How to re-org your newsroom around product without breaking it" slides](https://docs.google.com/presentation/d/1-Oh-6QKDemj7zZwG0H5C3F_kPfnFuAJGNehUCrZqOpg/edit)
-* ["If I knew then what I know now" session notes](https://etherpad.opennews.org/p/SRCCON2019-if-i-knew-then)
-* ["Let’s JAMstack! How to Make Data-driven Static Sites" session notes](https://etherpad.opennews.org/p/SRCCON2019-data-driven-static-sites)
-* ["Let’s JAMstack! How to Make Data-driven Static Sites" slides](https://jamtalk.netlify.com/)
-* ["Let’s build some ethical advertising" session notes](https://etherpad.opennews.org/p/SRCCON2019-ethical-advertising)
-* ["Making The Case For Remote Work" session notes](https://etherpad.opennews.org/p/SRCCON2019-case-for-remote-work)
-* ["Making The Case For Remote Work" slides](https://docs.google.com/presentation/d/1ZtvYjubuHt4vVt8ocLfEMcq1EbK6KADkIZe5aNVubP4/edit#slide=id.p)
-* ["Meeting management challenges in local newsrooms" session notes](https://etherpad.opennews.org/p/SRCCON2019-local-newsroom-management)
-* ["Meeting management challenges in local newsrooms" documentation](https://drive.google.com/drive/folders/1a883gDNLZs2ASjeNE78GslzWRGRoqJr_)
-* ["Membership Has its Privileges (and They Are Not Just for the Privileged)" session notes](https://etherpad.opennews.org/p/SRCCON2019-membership-privileges)
-* ["Murder Mystery: Collaborative Journalism Edition" session notes](https://etherpad.opennews.org/p/SRCCON2019-murder-mystery-collaborative-journalism)
-* ["Noise & Signal: Knowing when to adopt new tech, and when to ignore it" session notes](https://etherpad.opennews.org/p/SRCCON2019-adopting-new-tech)
-* ["Noise & Signal: Knowing when to adopt new tech, and when to ignore it" slides](https://docs.google.com/presentation/d/1_np-Qy6gjfJ-Y8no3pncR1VdXFG2uSuUBa74MKXgKug/edit#slide=id.p)
-* ["Proud to be a Platypus: Finding Your Own Innovative Role in News" session notes](https://etherpad.opennews.org/p/SRCCON2019-proud-platypus)
-* ["Proud to be a Platypus: Finding Your Own Innovative Role in News" slides](https://docs.google.com/presentation/d/1XZxPxSnW1vG00EIQYaUwtNGssbfZOZozqt-o-U9oIBA/edit)
-* ["Proud to be a Platypus: Finding Your Own Innovative Role in News" worksheet](https://docs.google.com/document/d/1IWMeKEPx5JftNLZdVS06q-spp7sCLEPV7I0RE0w8D1c/edit)
-* ["Spreadsheets IRL: The How and Why of Making Data With Your Community" session notes](https://etherpad.opennews.org/p/SRCCON2019-making-data-with-community)
-* ["Spreadsheets IRL: The How and Why of Making Data With Your Community" slides](https://docs.google.com/presentation/d/1ZEGG-lmCy7VWYK6LGogZLa7bmbQzzqCB-GFLWIPEDqo/edit)
-* ["State of Newsroom Diversity Reports" session notes](https://etherpad.opennews.org/p/SRCCON2019-newsroom-diversity-reports)
-* ["Staying with the trouble: Doing good work in terrible times" session notes](https://etherpad.opennews.org/p/SRCCON2019-good-work-troubling-times)
-* ["Steps to getting a local news startup off the ground" session notes](https://etherpad.opennews.org/p/SRCCON2019-local-news-startups)
-* ["Steps to getting a local news startup off the ground" worksheet](https://docs.google.com/document/d/1h2bfiChVPUoF_4zoE669y7Oeb8KzuAf-3KIwqlCsGi0/edit#heading=h.dox4zdl28dq6)
-* ["Steps to getting a local news startup off the ground" playbook](https://shorensteincenter.org/playbook-for-local-nonprofit-news-outlets/)
-* ["Structured communication: Tools you can use to change culture and help your team feel heard" session notes](https://etherpad.opennews.org/p/SRCCON2019-structured-communication)
-* ["Structured communication: Tools you can use to change culture and help your team feel heard" slides](https://docs.google.com/presentation/d/1hsTATpIiD6T_JGbJIGgBh_P44CAF17humnasvDUlcvk/edit?ts=5d271404#slide=id.g5a63c046d2_0_174)
-* ["The Geeks Won: Now What?" session notes](https://etherpad.opennews.org/p/SRCCON2019-geeks-won-now-what)
-* ["The Geeks Won: Now What?" slides](https://docs.google.com/presentation/d/17T372cPhimiNyhmmxBZs6wawV7G6m3USo6_UjvD3ZPg/edit#slide=id.p)
-* ["Training: Finding new data sources with search and exploration tools" session notes](https://etherpad.opennews.org/p/SRCCON2019-training-data-sources)
-* ["We should rethink the way we think about percentages" slides](https://docs.google.com/presentation/d/1AIn7DeNzUSB96HK9iy6Kw2fl2w5uS28Qs1Uow7WNVOc/edit)
-* ["What happens to journalism, when AI eats the world?" session notes](https://etherpad.opennews.org/p/SRCCON2019-ai-eats-the-world)
-* ["What happens to journalism, when AI eats the world?" slides](https://docs.google.com/presentation/d/1EM21pf0A3DzP72NNU9zK6ejqhxafww4Px4jNCpItVJ4/edit)
-* ["Why it matters — Designing for impact" slides](https://docs.google.com/presentation/d/1iUrxAMbf6FmBmkd2C03G8-LBy82MCyxg2mTi6k3h-YA/edit#slide=id.p)
 
-## Session Write-Ups
+* ["" session notes]()
+* ["" session notes]()
+* ["" session notes]()
 
-In the leadup to SRCCON 2019, we’ll feature a selection of previews with session facilitators about the topics they're bringing to this year's event. You can [keep up with the series on Source](https://source.opennews.org). After this year's SRCCON, we'll also publish a series of session summaries that dig into the things people learned during conversations and workshops.
+* ["Decolonizing decisions: an inclusive framework for collaboration" session notes](https://etherpad.opennews.org/p/SRCCONLEAD2019-inclusive-framework-collaboration)
+* ["Decolonizing decisions: an inclusive framework for collaboration" slides](https://docs.google.com/presentation/d/1xw3tU0-kNlORQeLl05952nVkVYzhGyCLpQu4mGqU-Q4/edit)
+* ["Democratic leadership in the newsroom" session notes](https://etherpad.opennews.org/p/SRCCONLEAD2019-democratic-leadership)
+* ["Effective Hiring Shapes Newsroom Culture" session notes](https://etherpad.opennews.org/p/SRCCONLEAD2019-effective-hiring-culture)
+* ["Effective Hiring Shapes Newsroom Culture" slides](https://docs.google.com/presentation/d/1B4xhmsGjcVKqnsg41JpLvCkIw1sAh2yfBfNSIDoH6gk/edit)
+* ["Evaluation Systems That Grow Journalists (Not Just Their Pageviews)" slides](https://docs.google.com/presentation/d/19ZrhoG0EFbSUK0cihpbPOWmi9Mi0A2tNiMr1UxzpCSk/edit#slide=id.g75744e445c_0_0)
+* ["How can you lead what you don’t understand?" session notes](https://etherpad.opennews.org/p/SRCCONLEAD2019-lead-understand)
+* ["How can you lead what you don’t understand?" slides](https://docs.google.com/presentation/d/1icdi12G_ySoBH1SLwzfOIwUVn4MV4Vbtbh0fnikPHsE/edit)
+* ["How do we track team decisions?" session notes](https://etherpad.opennews.org/p/SRCCONLEAD2019-tracking-team-decisions)
+* ["How do we track team decisions?" slides & sticky notes](https://docs.google.com/presentation/d/17dOZmTyaY6DOPbUTLQ1vyDxw12Q9G1DFeONglDPdDAA/edit#slide=id.p)
+* ["How journalists can build better support networks" session notes](https://etherpad.opennews.org/p/SRCCONLEAD2019-building-support-networks)
+* ["How journalists can build better support networks" slides](https://docs.google.com/presentation/d/1eU7ooQg_jNWE4AnUG-0pfn3BlfYH8w1bIR91Ab-ji4M/edit#slide=id.p)
+* ["How not to be ‘The Man’" session notes](https://etherpad.opennews.org/p/SRCCONLEAD2019-dont-be-the-man)
+* ["How to create leaders for tomorrow’s newsrooms" slides](https://docs.google.com/presentation/d/1hz1gP6M8k6lRRu7IivR6ZBwk-HqCKxYflFl8THxiS8M/edit#slide=id.p1)
+* ["How to have difficult conversations (and solve problems in the process)" session notes](https://etherpad.opennews.org/p/SRCCONLEAD2019-difficult-conversations)
+* ["How to lead without power" session notes](https://etherpad.opennews.org/p/SRCCONLEAD2019-lead-without-power)
+* ["How to re-org your newsroom around product without breaking it" slides](https://docs.google.com/presentation/d/1AMsI0j2b8vt2d-nnrLeAFCYoYw873CvFIFhK1PABOHo/edit)
+* ["How to re-org your newsroom around product without breaking it" workshop packet](https://docs.google.com/document/d/1c1Y1izf8Gme7Bhr80PSYVBm55tPtlSYcG1CFGviFEQo/edit?usp=sharing&urp=gmail_link)
+* ["Leading in Times of Fear" session notes](https://etherpad.opennews.org/p/SRCCONLEAD2019-leading-times-of-fear)
+* ["On your own: Building the Leadership Model that Works for You" session notes](https://etherpad.opennews.org/p/SRCCONLEAD2019-on-your-own)
+* ["On your own: Building the Leadership Model that Works for You" slides](https://docs.google.com/presentation/d/1ZFOFvKdZdEC5uGVF1G3RUoHqD6rRiXYhU2gBgnxQ3B0/edit#slide=id.g78e13534f3_0_112)
+* ["Sometimes, Becoming an Editor/Manager Makes You Like Your Job Less. Come Learn Why and What You Can Do to Not Feel That Way." slides](https://docs.google.com/presentation/d/15iNIPXWImxBdKkTYyCTwtdoQ497nMPF6WW6iMTfUJLg/edit?folder=0ANBKG7uLBJVVUk9PVA#slide=id.g6b5b4bb911_0_71)
+* ["Start with why: A framework for motivating a team" session notes](https://etherpad.opennews.org/p/SRCCONLEAD2019-start-with-why)
+* ["Start with why: A framework for motivating a team" slides](https://docs.google.com/presentation/d/19CD7HDEM0pRwPnYC7CL6PhPwst9aiX6wEH72XhHsgdI/edit)
+* ["The State of Newsroom Diversity Reports" session notes](https://etherpad.opennews.org/p/SRCCONLEAD2019-newsroom-diversity-reports)
+* ["Thinking Beyond Your Newsroom: The 2020 Census" slides](https://drive.google.com/file/d/1ZPkHB7Q-Pauutd3MlzQhoUjk1ezZXtLr/view)
+* ["Thinking Beyond Your Newsroom: The 2020 Census" resources](http://kp.cc/SRCCON)
+* ["To Be Better Leaders In Journalism, Let’s Look Beyond Journalism" session notes](https://etherpad.opennews.org/p/SRCCONLEAD2019-look-beyond-journalism)
+* ["Toward a more resilient newsroom: Redistributing power through participation" session notes](https://etherpad.opennews.org/p/SRCCONLEAD2019-power-through-participation)
+* ["Toward a more resilient newsroom: Redistributing power through participation" slides](https://docs.google.com/presentation/d/1n_GHh9XFUSDnL-5xjWenb2ePHFIgNy-sTXIZi6maJJ4/edit#slide=id.g7083a87265_0_0)
+* ["Toward a more resilient newsroom: Redistributing power through participation" additional resources](https://drive.google.com/drive/folders/1djNdcjzafYpU25MTnoLG8pBR0u6FrT_7)
+* ["Toward a more resilient newsroom: Redistributing power through participation" reading list](https://docs.google.com/document/d/1bv3zPAkZZduMjR7J--o0HKTDdmbx0cLwoQrkn27lcrk/edit)
+* ["Use that spreadsheet! Why leaders need to manage money" session notes](https://etherpad.opennews.org/p/SRCCONLEAD2019-use-that-spreadsheet)
+* ["Use that spreadsheet! Why leaders need to manage money" slides](https://docs.google.com/presentation/d/10KFHffArZS4Wf9CYdUCWF9JJdcjnKtYhnG_6Q_ER_uo/edit#slide=id.p)
+* ["The workplace roadblocks that women face — and what to do about them" session notes](https://etherpad.opennews.org/p/SRCCONLEAD2019-workplace-roadblocks-women-face)
+* ["The workplace roadblocks that women face — and what to do about them" slides](https://drive.google.com/file/d/1psu8MYZILjgBfJ-P4OhJ-wAd0RlqlZeb/view)
 
-<p class="sponsor-tag">Transcription at SRCCON is made possible by <a href="https://www.lenfestinstitute.org/"><img src="/media/img/partners/lenfest.png" class="" alt="The Lenfest Institute"></a></p>
+
+
+<p class="sponsor-tag">Transcription at SRCCON:LEAD is made possible by <a href="https://www.lenfestinstitute.org/"><img src="/media/img/partners/lenfest.png" class="" alt="The Lenfest Institute"></a></p>
 
 <!-- NOTE: We should add an attendee writeups section here too -->
