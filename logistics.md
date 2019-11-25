@@ -2,6 +2,7 @@
 layout: layout
 section: logistics
 permalink: /logistics/
+title: SRCCON:LEAD 2019 — Attendee Information
 ---
 
 ## Venue

@@ -4,6 +4,7 @@ section: conduct
 photocredit: Dvortygirl
 photocredit_url: https://www.flickr.com/photos/dvortygirl/3982230988
 permalink: /support/
+title: SRCCON:LEAD 2019 — Care and Support
 ---
 
 # Care &amp; support at SRCCON events

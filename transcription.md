@@ -1,7 +1,8 @@
 ---
 layout: layout
-section: remote
 permalink: /transcription/
+redirect_to:
+ - /documentation
 ---
 
 # Transcription

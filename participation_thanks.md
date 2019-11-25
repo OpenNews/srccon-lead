@@ -4,6 +4,7 @@ section: participation
 photocredit: Erik Westra
 photocredit_url: http://www.westraco.com/
 permalink: /participation/thanks/
+title: SRCCON:LEAD 2019 — Call for Participation
 ---
 
 # Thank you for answering the SRCCON:LEAD call for participation!

@@ -4,6 +4,7 @@ section: scholarships
 photocredit: Erik Westra
 photocredit_url: http://www.westraco.com/
 permalink: /scholarships/
+title: SRCCON:LEAD 2019 — Scholarships
 ---
 
 # Scholarships
