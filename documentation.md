@@ -74,7 +74,7 @@ All sessions at SRCCON events have a collaborative etherpad that facilitators an
 * ["Use that spreadsheet! Why leaders need to manage money" session notes](https://etherpad.opennews.org/p/SRCCONLEAD2019-use-that-spreadsheet)
 * ["Use that spreadsheet! Why leaders need to manage money" slides](https://docs.google.com/presentation/d/10KFHffArZS4Wf9CYdUCWF9JJdcjnKtYhnG_6Q_ER_uo/edit#slide=id.p)
 * ["The workplace roadblocks that women face — and what to do about them" session notes](https://etherpad.opennews.org/p/SRCCONLEAD2019-workplace-roadblocks-women-face)
-* ["The workplace roadblocks that women face — and what to do about them" slides](https://drive.google.com/file/d/1psu8MYZILjgBfJ-P4OhJ-wAd0RlqlZeb/view)
+* ["The workplace roadblocks that women face — and what to do about them" slides](https://drive.google.com/file/d/19-8-xTGsAlC0WQ1Z93iZow68NZcUPM2M/view)
 
 
 
