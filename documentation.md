@@ -38,11 +38,6 @@ Our live-captioner transcribed each talk and 8 sessions at SRCCON:LEAD. Sessions
 
 All sessions at SRCCON events have a collaborative etherpad that facilitators and attendees can use to share links and capture notes. Each entry on [our schedule](https://lead.srccon.org/schedule) has a link to that session's etherpad. We also collect slide decks, worksheets, and other documentation right here—if you're a facilitator and you have session resources to share, [let us know](mailto:srccon@opennews.org)!
 
-
-* ["" session notes]()
-* ["" session notes]()
-* ["" session notes]()
-
 * ["Decolonizing decisions: an inclusive framework for collaboration" session notes](https://etherpad.opennews.org/p/SRCCONLEAD2019-inclusive-framework-collaboration)
 * ["Decolonizing decisions: an inclusive framework for collaboration" slides](https://docs.google.com/presentation/d/1xw3tU0-kNlORQeLl05952nVkVYzhGyCLpQu4mGqU-Q4/edit)
 * ["Democratic leadership in the newsroom" session notes](https://etherpad.opennews.org/p/SRCCONLEAD2019-democratic-leadership)
